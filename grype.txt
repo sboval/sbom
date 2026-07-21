@@ -1,0 +1,50 @@
+libpng16-16                               1.6.39-2+deb12u5                                                                      deb        CVE-2026-3713        Negligible  0.1% (2nd)     < 0.1         
+curl                                      7.88.1-10+deb12u15                                                                    deb        CVE-2025-14017       Negligible  0.1% (1st)     < 0.1         
+libcurl3-gnutls                           7.88.1-10+deb12u15                                                                    deb        CVE-2025-14017       Negligible  0.1% (1st)     < 0.1         
+libcurl4                                  7.88.1-10+deb12u15                                                                    deb        CVE-2025-14017       Negligible  0.1% (1st)     < 0.1         
+cryptography                              46.0.7                              48.0.1                                            python     GHSA-537c-gmf6-5ccf  High        N/A            N/A           
+serialize-javascript                      6.0.2                               7.0.3                                             npm        GHSA-5c6j-r48x-rmvq  High        N/A            N/A           
+bleach                                    6.3.0                                                                                 python     GHSA-g75f-g53v-794x  Medium      N/A            N/A           
+bleach                                    6.3.0                               6.4.0                                             python     GHSA-gj48-438w-jh9v  Medium      N/A            N/A           
+dompurify                                 3.4.0                               3.4.7                                             npm        GHSA-76mc-f452-cxcm  Medium      N/A            N/A           
+dompurify                                 3.4.0                               3.4.11                                            npm        GHSA-cmwh-pvxp-8882  Medium      N/A            N/A           
+esbuild                                   0.14.54                             0.25.0                                            npm        GHSA-67mh-4wv8-2f99  Medium      N/A            N/A           
+esbuild                                   0.21.5                              0.25.0                                            npm        GHSA-67mh-4wv8-2f99  Medium      N/A            N/A           
+weasyprint                                68.0                                                                                  python     GHSA-jhhc-3hcp-qhm5  Medium      N/A            N/A           
+bleach                                    6.3.0                               6.4.0                                             python     GHSA-8rfp-98v4-mmr6  Low         N/A            N/A           
+dompurify                                 3.4.0                               3.4.8                                             npm        GHSA-gvmj-g25r-r7wr  Low         N/A            N/A           
+dompurify                                 3.4.0                               3.4.9                                             npm        GHSA-vxr8-fq34-vvx9  Low         N/A            N/A           
+dompurify                                 3.4.0                                                                                 npm        GHSA-x4vx-rjvf-j5p4  Low         N/A            N/A           
+bsdutils                                  1:2.38.1-5+deb12u3                                                                    deb        CVE-2026-53613       Unknown     N/A            N/A           
+bsdutils                                  1:2.38.1-5+deb12u3                                                                    deb        CVE-2026-53615       Unknown     N/A            N/A           
+chromium-common                           150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15899       Unknown     N/A            N/A           
+chromium-common                           150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15900       Unknown     N/A            N/A           
+chromium-common                           150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15901       Unknown     N/A            N/A           
+chromium-common                           150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15902       Unknown     N/A            N/A           
+chromium-common                           150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15903       Unknown     N/A            N/A           
+chromium-common                           150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15904       Unknown     N/A            N/A           
+chromium-common                           150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15905       Unknown     N/A            N/A           
+chromium-headless-shell                   150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15899       Unknown     N/A            N/A           
+chromium-headless-shell                   150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15900       Unknown     N/A            N/A           
+chromium-headless-shell                   150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15901       Unknown     N/A            N/A           
+chromium-headless-shell                   150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15902       Unknown     N/A            N/A           
+chromium-headless-shell                   150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15903       Unknown     N/A            N/A           
+chromium-headless-shell                   150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15904       Unknown     N/A            N/A           
+chromium-headless-shell                   150.0.7871.124-1~deb12u1                                                              deb        CVE-2026-15905       Unknown     N/A            N/A           
+libblkid1                                 2.38.1-5+deb12u3                                                                      deb        CVE-2026-53613       Unknown     N/A            N/A           
+libblkid1                                 2.38.1-5+deb12u3                                                                      deb        CVE-2026-53615       Unknown     N/A            N/A           
+libmount1                                 2.38.1-5+deb12u3                                                                      deb        CVE-2026-53613       Unknown     N/A            N/A           
+libmount1                                 2.38.1-5+deb12u3                                                                      deb        CVE-2026-53615       Unknown     N/A            N/A           
+libsmartcols1                             2.38.1-5+deb12u3                                                                      deb        CVE-2026-53613       Unknown     N/A            N/A           
+libsmartcols1                             2.38.1-5+deb12u3                                                                      deb        CVE-2026-53615       Unknown     N/A            N/A           
+libuuid1                                  2.38.1-5+deb12u3                                                                      deb        CVE-2026-53613       Unknown     N/A            N/A           
+libuuid1                                  2.38.1-5+deb12u3                                                                      deb        CVE-2026-53615       Unknown     N/A            N/A           
+mount                                     2.38.1-5+deb12u3                                                                      deb        CVE-2026-53613       Unknown     N/A            N/A           
+mount                                     2.38.1-5+deb12u3                                                                      deb        CVE-2026-53615       Unknown     N/A            N/A           
+util-linux                                2.38.1-5+deb12u3                                                                      deb        CVE-2026-53613       Unknown     N/A            N/A           
+util-linux                                2.38.1-5+deb12u3                                                                      deb        CVE-2026-53615       Unknown     N/A            N/A           
+util-linux-extra                          2.38.1-5+deb12u3                                                                      deb        CVE-2026-53613       Unknown     N/A            N/A           
+util-linux-extra                          2.38.1-5+deb12u3                                                                      deb        CVE-2026-53615       Unknown     N/A            N/A           
+vim                                       2:9.0.1378-2+deb12u2                                                                  deb        CVE-2026-43961       Unknown     N/A            N/A           
+vim-common                                2:9.0.1378-2+deb12u2                                                                  deb        CVE-2026-43961       Unknown     N/A            N/A           
+vim-runtime                               2:9.0.1378-2+deb12u2                                                                  deb        CVE-2026-43961       Unknown     N/A            N/A
