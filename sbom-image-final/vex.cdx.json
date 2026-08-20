@@ -1,0 +1,259 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "version": 2,
+ "metadata": {
+  "timestamp": "2026-08-20T00:00:00Z",
+  "component": {
+   "type": "container",
+   "name": "erpnext-poc-crm:v16-fixed2",
+   "version": "v16-fixed2"
+  },
+  "properties": [
+   {
+    "name": "vex:note",
+    "value": "Re-scan 2026-08-20. 8 critiques résiduelles, toutes des paquets Debian SANS correctif amont (NO-FIX). CISA KEV : 0/8. EPSS : tous faibles (max 3,18% zlib)."
+   },
+   {
+    "name": "vex:kev_checked",
+    "value": "2026-08-20 — 0/8 dans le catalogue CISA KEV"
+   }
+  ]
+ },
+ "vulnerabilities": [
+  {
+   "id": "CVE-2023-45853",
+   "source": {
+    "name": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-45853"
+   },
+   "ratings": [
+    {
+     "severity": "critical"
+    },
+    {
+     "method": "other",
+     "score": 0.0318,
+     "vector": "EPSS"
+    }
+   ],
+   "analysis": {
+    "state": "not_affected",
+    "response": [
+     "will_not_fix"
+    ],
+    "detail": "Le code vulnérable est dans MiniZip (composant contrib), NON compilé dans la bibliothèque partagée libz de Debian. Debian classe zlib1g comme non affecté. Aucun correctif requis.",
+    "justification": "code_not_present"
+   },
+   "affects": [
+    {
+     "ref": "pkg:deb/debian/zlib1g@1:1.2.13.dfsg-1"
+    }
+   ]
+  },
+  {
+   "id": "CVE-2026-58016",
+   "source": {
+    "name": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-58016"
+   },
+   "ratings": [
+    {
+     "severity": "critical"
+    },
+    {
+     "method": "other",
+     "score": 0.0055,
+     "vector": "EPSS"
+    }
+   ],
+   "analysis": {
+    "state": "not_affected",
+    "response": [
+     "will_not_fix"
+    ],
+    "detail": "Sous-débordement d'entier dans l'introspection D-Bus (gdbusintrospection). Aucun bus D-Bus n'est utilisé dans le conteneur au runtime : chemin non atteignable.",
+    "justification": "code_not_reachable"
+   },
+   "affects": [
+    {
+     "ref": "pkg:deb/debian/libglib2.0-0@2.74.6-2+deb12u9"
+    }
+   ]
+  },
+  {
+   "id": "CVE-2025-7458",
+   "source": {
+    "name": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-7458"
+   },
+   "ratings": [
+    {
+     "severity": "critical"
+    },
+    {
+     "method": "other",
+     "score": 0.0024,
+     "vector": "EPSS"
+    }
+   ],
+   "analysis": {
+    "state": "in_triage",
+    "response": [
+     "update"
+    ],
+    "detail": "Débordement d'entier SQLite. SQLite n'est PAS la base applicative (MariaDB l'est) ; aucune entrée SQL non fiable exposée. Aucun correctif Debian disponible à ce jour — surveillé."
+   },
+   "affects": [
+    {
+     "ref": "pkg:deb/debian/libsqlite3-0@3.40.1-2+deb12u2"
+    }
+   ]
+  },
+  {
+   "id": "CVE-2026-13221",
+   "source": {
+    "name": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-13221"
+   },
+   "ratings": [
+    {
+     "severity": "critical"
+    },
+    {
+     "method": "other",
+     "score": 0.0043,
+     "vector": "EPSS"
+    }
+   ],
+   "analysis": {
+    "state": "in_triage",
+    "response": [
+     "update"
+    ],
+    "detail": "Perl hors du chemin de requête applicatif (scripts système). Exploitation nécessite une entrée locale malveillante. Aucun correctif Debian à ce jour — surveillé."
+   },
+   "affects": [
+    {
+     "ref": "pkg:deb/debian/perl-modules-5.36@5.36.0-7+deb12u3"
+    }
+   ]
+  },
+  {
+   "id": "CVE-2026-42496",
+   "source": {
+    "name": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42496"
+   },
+   "ratings": [
+    {
+     "severity": "critical"
+    },
+    {
+     "method": "other",
+     "score": 0.0043,
+     "vector": "EPSS"
+    }
+   ],
+   "analysis": {
+    "state": "in_triage",
+    "response": [
+     "update"
+    ],
+    "detail": "Traversée archive-tar / débordement Perl. Hors chemin applicatif, entrée locale requise. Aucun correctif Debian à ce jour — surveillé."
+   },
+   "affects": [
+    {
+     "ref": "pkg:deb/debian/perl-modules-5.36@5.36.0-7+deb12u3"
+    }
+   ]
+  },
+  {
+   "id": "CVE-2026-57433",
+   "source": {
+    "name": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-57433"
+   },
+   "ratings": [
+    {
+     "severity": "critical"
+    },
+    {
+     "method": "other",
+     "score": 0.0036,
+     "vector": "EPSS"
+    }
+   ],
+   "analysis": {
+    "state": "in_triage",
+    "response": [
+     "update"
+    ],
+    "detail": "Débordement Storable (données sérialisées forgées). Hors chemin applicatif. Aucun correctif Debian à ce jour — surveillé."
+   },
+   "affects": [
+    {
+     "ref": "pkg:deb/debian/perl-modules-5.36@5.36.0-7+deb12u3"
+    }
+   ]
+  },
+  {
+   "id": "CVE-2026-8376",
+   "source": {
+    "name": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-8376"
+   },
+   "ratings": [
+    {
+     "severity": "critical"
+    },
+    {
+     "method": "other",
+     "score": 0.0044,
+     "vector": "EPSS"
+    }
+   ],
+   "analysis": {
+    "state": "in_triage",
+    "response": [
+     "update"
+    ],
+    "detail": "Débordement de tas dans le moteur d'expressions régulières Perl. Hors chemin applicatif. Aucun correctif Debian à ce jour — surveillé."
+   },
+   "affects": [
+    {
+     "ref": "pkg:deb/debian/perl-modules-5.36@5.36.0-7+deb12u3"
+    }
+   ]
+  },
+  {
+   "id": "CVE-2026-6653",
+   "source": {
+    "name": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-6653"
+   },
+   "ratings": [
+    {
+     "severity": "critical"
+    },
+    {
+     "method": "other",
+     "score": 0.0036,
+     "vector": "EPSS"
+    }
+   ],
+   "analysis": {
+    "state": "in_triage",
+    "response": [
+     "update"
+    ],
+    "detail": "DoS via XML forgé. Atteignable uniquement si l'application parse du XML non fiable ; impact = déni de service (pas d'exécution de code). Aucun correctif Debian à ce jour — surveillé."
+   },
+   "affects": [
+    {
+     "ref": "pkg:deb/debian/libxml2@2.9.14+dfsg-1.3~deb12u6"
+    }
+   ]
+  }
+ ]
+}

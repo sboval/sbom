@@ -1,0 +1,1021 @@
+NAME                     INSTALLED                 FIXED IN                                             TYPE       VULNERABILITY        SEVERITY    EPSS           RISK          
+nginx                    1.22.1-9+deb12u9                                                               deb        CVE-2023-44487       High        100.0% (99th)  78.8   (kev)  
+nginx-common             1.22.1-9+deb12u9                                                               deb        CVE-2023-44487       High        100.0% (99th)  78.8   (kev)  
+stdlib                   go1.19.8                  *1.21.9, 1.22.2                                      go-module  GO-2024-2687         High        92.0% (99th)   69.0          
+node                     24.12.0                   20.20.2, 22.22.2, *24.14.1, 25.8.2                   binary     CVE-2026-21710       High        26.4% (97th)   19.8          
+json5                    0.5.1                     1.0.2                                                npm        GHSA-9c47-m6qq-7p4h  High        9.3% (94th)    6.8           
+libgnutls30              3.7.9-2+deb12u7                                                                deb        CVE-2011-3389        Negligible  73.3% (99th)   3.7           
+nginx                    1.22.1-9+deb12u9                                                               deb        CVE-2026-42533       Critical    3.5% (88th)    3.2           
+nginx-common             1.22.1-9+deb12u9                                                               deb        CVE-2026-42533       Critical    3.5% (88th)    3.2           
+stdlib                   go1.19.8                  *1.20.10, 1.21.3                                     go-module  GO-2023-2102         High        3.8% (89th)    2.8           
+node                     24.12.0                   20.20.0, 22.22.0, *24.13.0, 25.3.0                   binary     CVE-2025-59465       High        3.8% (89th)    2.8           
+node                     24.12.0                   20.20.0, 22.22.0, *24.13.0, 25.3.0                   binary     CVE-2025-55131       High        3.4% (87th)    2.5           
+glob                     10.4.5                    10.5.0                                               npm        GHSA-5j98-mcp5-4vw2  High        3.1% (86th)    2.3           
+glob                     11.0.3                    11.1.0                                               npm        GHSA-5j98-mcp5-4vw2  High        3.1% (86th)    2.3           
+stdlib                   go1.19.8                  *1.20.11, 1.21.4                                     go-module  GO-2023-2185         High        2.8% (85th)    2.1           
+lodash                   4.17.21                   4.18.0                                               npm        GHSA-r5fr-rjxr-66jc  High        2.6% (83rd)    2.0           
+lodash-es                4.17.21                   4.18.0                                               npm        GHSA-r5fr-rjxr-66jc  High        2.6% (83rd)    2.0           
+stdlib                   go1.19.8                  *1.21.11, 1.22.4                                     go-module  GO-2024-2887         Critical    2.0% (78th)    1.8           
+nginx                    1.22.1-9+deb12u9                                                               deb        CVE-2009-4487        Negligible  29.5% (98th)   1.5           
+nginx-common             1.22.1-9+deb12u9                                                               deb        CVE-2009-4487        Negligible  29.5% (98th)   1.5           
+stdlib                   go1.19.8                  *1.19.9, 1.20.4                                      go-module  GO-2023-1752         Critical    1.6% (73rd)    1.5           
+libldap-2.5-0            2.5.13+dfsg-5             (won't fix)                                          deb        CVE-2023-2953        High        1.9% (78th)    1.5           
+stdlib                   go1.19.8                  *1.24.12, 1.25.6                                     go-module  GO-2026-4341         High        1.9% (78th)    1.5           
+node                     24.12.0                   20.20.0, 22.22.0, *24.13.0, 25.3.0                   binary     CVE-2025-55130       Critical    1.7% (74th)    1.4           
+libharfbuzz-subset0      6.0.0+dfsg-3              (won't fix)                                          deb        CVE-2023-25193       High        1.8% (76th)    1.4           
+libharfbuzz0b            6.0.0+dfsg-3              (won't fix)                                          deb        CVE-2023-25193       High        1.8% (76th)    1.4           
+postcss                  5.2.18                    7.0.36                                               npm        GHSA-566m-qj78-rww5  Medium      2.5% (83rd)    1.3           
+postcss                  6.0.23                    7.0.36                                               npm        GHSA-566m-qj78-rww5  Medium      2.5% (83rd)    1.3           
+stdlib                   go1.19.8                  *1.21.12, 1.22.5                                     go-module  GO-2024-2963         High        1.4% (70th)    1.1           
+ws                       8.11.0                    8.17.1                                               npm        GHSA-3h5v-q93c-6h6q  High        1.4% (69th)    1.1           
+libexpat1                2.5.0-1+deb12u2           (won't fix)                                          deb        CVE-2025-59375       High        1.3% (68th)    1.0           
+stdlib                   go1.19.8                  1.20.0                                               go-module  GO-2023-2375         High        1.2% (67th)    0.9           
+lodash                   4.17.21                   4.17.23                                              npm        GHSA-xxjr-mmjv-4gpg  Medium      1.5% (72nd)    0.9           
+lodash-es                4.17.21                   4.17.23                                              npm        GHSA-xxjr-mmjv-4gpg  Medium      1.5% (72nd)    0.9           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28417       High        1.2% (64th)    0.9           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28417       High        1.2% (64th)    0.9           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28417       High        1.2% (64th)    0.9           
+libtasn1-6               4.19.0-2+deb12u1          (won't fix)                                          deb        CVE-2025-13151       High        1.1% (63rd)    0.8           
+stdlib                   go1.19.8                  *1.22.7, 1.23.1                                      go-module  GO-2024-3106         High        1.1% (63rd)    0.8           
+stdlib                   go1.19.8                  *1.19.11, 1.20.6                                     go-module  GO-2023-1878         Medium      1.5% (71st)    0.8           
+xdg-utils                1.1.3-4.1                 (won't fix)                                          deb        CVE-2020-27748       Medium      1.4% (71st)    0.8           
+immutable                4.3.4                     4.3.8                                                npm        GHSA-wf6x-7x77-mvgw  High        1.0% (59th)    0.8           
+stdlib                   go1.19.8                  *1.19.12, 1.20.7, 1.21.0-rc.4                        go-module  GO-2023-1987         Medium      1.6% (73rd)    0.8           
+stdlib                   go1.19.8                  *1.22.7, 1.23.1                                      go-module  GO-2024-3107         High        1.0% (61st)    0.8           
+stdlib                   go1.19.8                  *1.21.8, 1.22.1                                      go-module  GO-2024-2609         High        1.0% (61st)    0.8           
+node                     24.12.0                   20.20.0, 22.22.0, *24.13.0, 25.3.0                   binary     CVE-2026-21637       High        1.1% (62nd)    0.8           
+stdlib                   go1.19.8                  *1.19.9, 1.20.4                                      go-module  GO-2023-1751         High        1.0% (61st)    0.8           
+stdlib                   go1.19.8                  *1.19.9, 1.20.4                                      go-module  GO-2023-1753         High        1.0% (61st)    0.8           
+stdlib                   go1.19.8                  *1.24.13, 1.25.7, 1.26.0-rc.3                        go-module  GO-2026-4337         Critical    0.8% (52nd)    0.7           
+stdlib                   go1.19.8                  *1.23.8, 1.24.2                                      go-module  GO-2025-3563         Critical    0.8% (53rd)    0.7           
+stdlib                   go1.19.8                  *1.21.8, 1.22.1                                      go-module  GO-2024-2599         Medium      1.2% (64th)    0.7           
+nginx                    1.22.1-9+deb12u9          (won't fix)                                          deb        CVE-2013-0337        Low         2.2% (81st)    0.7           
+nginx-common             1.22.1-9+deb12u9          (won't fix)                                          deb        CVE-2013-0337        Low         2.2% (81st)    0.7           
+libcairo2                1.16.0-7                  (won't fix)                                          deb        CVE-2019-6462        Low         2.1% (80th)    0.6           
+libcairo2                1.16.0-7                  (won't fix)                                          deb        CVE-2019-6461        Low         2.1% (80th)    0.6           
+stdlib                   go1.19.8                  *1.20.12, 1.21.5                                     go-module  GO-2023-2382         Medium      1.2% (65th)    0.6           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-33412       High        0.8% (54th)    0.6           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-33412       High        0.8% (54th)    0.6           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-33412       High        0.8% (54th)    0.6           
+stdlib                   go1.19.8                  *1.25.10, 1.26.3                                     go-module  GO-2026-4981         High        0.8% (54th)    0.6           
+quill                    1.3.7                                                                          npm        GHSA-4943-9vgg-gr5r  Medium      1.3% (68th)    0.6           
+stdlib                   go1.19.8                  *1.25.10, 1.26.3                                     go-module  GO-2026-4977         High        0.8% (53rd)    0.6           
+libssh2-1                1.10.0-3+b1                                                                    deb        CVE-2025-15661       Medium      1.0% (60th)    0.6           
+stdlib                   go1.19.8                  *1.25.10, 1.26.3                                     go-module  GO-2026-4986         High        0.8% (53rd)    0.6           
+ws                       8.11.0                    8.21.0                                               npm        GHSA-96hv-2xvq-fx4p  High        0.8% (53rd)    0.6           
+ws                       8.17.1                    8.21.0                                               npm        GHSA-96hv-2xvq-fx4p  High        0.8% (53rd)    0.6           
+stdlib                   go1.19.8                  *1.25.10, 1.26.3                                     go-module  GO-2026-4918         High        0.8% (53rd)    0.6           
+python                   3.14.2                    3.13.14, *3.14.6, 3.15.0b2                           binary     CVE-2026-7210        High        0.8% (54th)    0.6           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.15, *3.14.7, ...     binary     CVE-2026-11940       High        0.8% (52nd)    0.6           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-11856       Critical    0.6% (46th)    0.6           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-11856       Critical    0.6% (46th)    0.6           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-11856       Critical    0.6% (46th)    0.6           
+nginx                    1.22.1-9+deb12u9                                                               deb        CVE-2026-60005       High        0.7% (50th)    0.6           
+nginx-common             1.22.1-9+deb12u9                                                               deb        CVE-2026-60005       High        0.7% (50th)    0.6           
+libncurses6              6.4-4                     (won't fix)                                          deb        CVE-2023-50495       Medium      1.0% (58th)    0.6           
+libncursesw6             6.4-4                     (won't fix)                                          deb        CVE-2023-50495       Medium      1.0% (58th)    0.6           
+libtinfo6                6.4-4                     (won't fix)                                          deb        CVE-2023-50495       Medium      1.0% (58th)    0.6           
+ncurses-base             6.4-4                     (won't fix)                                          deb        CVE-2023-50495       Medium      1.0% (58th)    0.6           
+ncurses-bin              6.4-4                     (won't fix)                                          deb        CVE-2023-50495       Medium      1.0% (58th)    0.6           
+libcairo2                1.16.0-7                  (won't fix)                                          deb        CVE-2017-7475        Low         1.8% (77th)    0.5           
+stdlib                   go1.19.8                  *1.25.8, 1.26.1                                      go-module  GO-2026-4601         High        0.7% (51st)    0.5           
+libssh2-1                1.10.0-3+b1                                                                    deb        CVE-2026-58050       High        0.7% (50th)    0.5           
+stdlib                   go1.19.8                  *1.25.13, 1.26.6, 1.27.0-rc.3                        go-module  GO-2026-5026         High        0.7% (48th)    0.5           
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-66046       High        0.7% (49th)    0.5           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8924        Critical    0.6% (44th)    0.5           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8924        Critical    0.6% (44th)    0.5           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8924        Critical    0.6% (44th)    0.5           
+stdlib                   go1.19.8                  *1.21.8, 1.22.1                                      go-module  GO-2024-2600         Medium      1.1% (62nd)    0.5           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.15, *3.14.7, ...     binary     CVE-2026-15308       High        0.6% (47th)    0.5           
+libglib2.0-0             2.74.6-2+deb12u9          (won't fix)                                          deb        CVE-2026-58016       Critical    0.5% (43rd)    0.5           
+xdg-utils                1.1.3-4.1                 (won't fix)                                          deb        CVE-2022-4055        High        0.7% (48th)    0.5           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-10536       Critical    0.5% (41st)    0.5           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-10536       Critical    0.5% (41st)    0.5           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-10536       Critical    0.5% (41st)    0.5           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-39881       High        0.6% (47th)    0.5           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-39881       High        0.6% (47th)    0.5           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-39881       High        0.6% (47th)    0.5           
+libnss3                  2:3.87.1-1+deb12u4        (won't fix)                                          deb        CVE-2023-5388        Medium      0.8% (54th)    0.5           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-44656       Medium      0.9% (57th)    0.5           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-44656       Medium      0.9% (57th)    0.5           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-44656       Medium      0.9% (57th)    0.5           
+libc-bin                 2.36-9+deb12u14           (won't fix)                                          deb        CVE-2026-5450        Critical    0.5% (40th)    0.5           
+libc6                    2.36-9+deb12u14           (won't fix)                                          deb        CVE-2026-5450        Critical    0.5% (40th)    0.5           
+node                     24.12.0                   22.23.2, *24.18.1                                    binary     CVE-2026-56846       High        0.6% (47th)    0.5           
+node                     24.12.0                   22.23.2, *24.18.1, 26.5.1                            binary     CVE-2026-56848       High        0.6% (47th)    0.5           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.14, *3.14.5rc1, ...  binary     CVE-2026-6100        High        0.6% (45th)    0.5           
+stdlib                   go1.19.8                  *1.25.9, 1.26.2                                      go-module  GO-2026-4870         High        0.6% (47th)    0.5           
+stdlib                   go1.19.8                  *1.20.11, 1.21.4                                     go-module  GO-2023-2186         Medium      0.9% (56th)    0.5           
+stdlib                   go1.19.8                  *1.24.8, 1.25.2                                      go-module  GO-2025-4009         High        0.6% (46th)    0.5           
+stdlib                   go1.19.8                  *1.25.9, 1.26.2                                      go-module  GO-2026-4947         High        0.6% (46th)    0.5           
+node                     24.12.0                   20.20.0, 22.22.0, *24.13.0, 25.3.0                   binary     CVE-2025-59466       High        0.6% (48th)    0.5           
+svgo                     2.8.0                     2.8.1                                                npm        GHSA-xpqw-6gx7-v673  High        0.6% (46th)    0.5           
+postcss                  5.2.18                    8.5.12                                               npm        GHSA-6g55-p6wh-862q  High        0.6% (46th)    0.5           
+postcss                  6.0.23                    8.5.12                                               npm        GHSA-6g55-p6wh-862q  High        0.6% (46th)    0.5           
+postcss                  7.0.39                    8.5.12                                               npm        GHSA-6g55-p6wh-862q  High        0.6% (46th)    0.5           
+postcss                  8.4.31                    8.5.12                                               npm        GHSA-6g55-p6wh-862q  High        0.6% (46th)    0.5           
+python                   3.14.2                    3.13.13, *3.14.4, 3.15.0a8                           binary     CVE-2026-4224        High        0.6% (47th)    0.5           
+stdlib                   go1.19.8                  *1.24.8, 1.25.2                                      go-module  GO-2025-4006         High        0.6% (46th)    0.5           
+stdlib                   go1.19.8                  *1.20.8, 1.21.1                                      go-module  GO-2023-2041         Medium      0.8% (54th)    0.5           
+stdlib                   go1.19.8                  *1.25.11, 1.26.4                                     go-module  GO-2026-5037         High        0.6% (45th)    0.4           
+stdlib                   go1.19.8                  *1.20.8, 1.21.1                                      go-module  GO-2023-2043         Medium      0.8% (53rd)    0.4           
+stdlib                   go1.19.8                  *1.25.13, 1.26.6, 1.27.0-rc.3                        go-module  GO-2026-6089         High        0.6% (45th)    0.4           
+stdlib                   go1.19.8                  *1.25.10, 1.26.3                                     go-module  GO-2026-4971         High        0.6% (45th)    0.4           
+postcss                  5.2.18                    8.4.31                                               npm        GHSA-7fh5-64p2-3v2j  Medium      0.8% (54th)    0.4           
+postcss                  6.0.23                    8.4.31                                               npm        GHSA-7fh5-64p2-3v2j  Medium      0.8% (54th)    0.4           
+postcss                  7.0.39                    8.4.31                                               npm        GHSA-7fh5-64p2-3v2j  Medium      0.8% (54th)    0.4           
+libssh2-1                1.10.0-3+b1               (won't fix)                                          deb        CVE-2026-7598        Critical    0.5% (38th)    0.4           
+minimatch                10.0.3                    10.2.1                                               npm        GHSA-3ppc-4f35-3m26  High        0.5% (41st)    0.4           
+minimatch                3.1.2                     3.1.3                                                npm        GHSA-3ppc-4f35-3m26  High        0.5% (41st)    0.4           
+minimatch                9.0.5                     9.0.6                                                npm        GHSA-3ppc-4f35-3m26  High        0.5% (41st)    0.4           
+stdlib                   go1.19.8                  *1.25.11, 1.26.4                                     go-module  GO-2026-5038         High        0.6% (44th)    0.4           
+libperl5.36              5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-8376        Critical    0.4% (37th)    0.4           
+perl                     5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-8376        Critical    0.4% (37th)    0.4           
+perl-base                5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-8376        Critical    0.4% (37th)    0.4           
+perl-modules-5.36        5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-8376        Critical    0.4% (37th)    0.4           
+socket.io-parser         4.2.4                     4.2.6                                                npm        GHSA-677m-j7p3-52f9  High        0.5% (41st)    0.4           
+socket.io-parser         4.2.5                     4.2.6                                                npm        GHSA-677m-j7p3-52f9  High        0.5% (41st)    0.4           
+stdlib                   go1.19.8                  *1.21.8, 1.22.1                                      go-module  GO-2024-2610         Medium      0.8% (53rd)    0.4           
+showdown                 2.1.0                                                                          npm        GHSA-rmmh-p597-ppvv  Medium      0.8% (53rd)    0.4           
+libdav1d6                1.0.0-2+deb12u1           (won't fix)                                          deb        CVE-2023-32570       Medium      0.7% (51st)    0.4           
+vim                      2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2026-46483       High        0.6% (43rd)    0.4           
+vim-common               2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2026-46483       High        0.6% (43rd)    0.4           
+vim-runtime              2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2026-46483       High        0.6% (43rd)    0.4           
+node                     24.12.0                   22.23.0, *24.17.0                                    binary     CVE-2026-48937       High        0.6% (44th)    0.4           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8927        Critical    0.4% (36th)    0.4           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8927        Critical    0.4% (36th)    0.4           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8927        Critical    0.4% (36th)    0.4           
+libsndfile1              1.2.0-1+deb12u1           (won't fix)                                          deb        CVE-2026-37555       High        0.5% (41st)    0.4           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-6253        Medium      0.7% (51st)    0.4           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-6253        Medium      0.7% (51st)    0.4           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-6253        Medium      0.7% (51st)    0.4           
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-13221       Critical    0.4% (36th)    0.4           
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-13221       Critical    0.4% (36th)    0.4           
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-13221       Critical    0.4% (36th)    0.4           
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-13221       Critical    0.4% (36th)    0.4           
+stdlib                   go1.19.8                  *1.22.7, 1.23.1                                      go-module  GO-2024-3105         Medium      0.8% (54th)    0.4           
+@isaacs/brace-expansion  5.0.0                     5.0.1                                                npm        GHSA-7h2j-956f-4vf2  High        0.5% (39th)    0.4           
+libperl5.36              5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-42496       Critical    0.4% (36th)    0.4           
+perl                     5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-42496       Critical    0.4% (36th)    0.4           
+perl-base                5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-42496       Critical    0.4% (36th)    0.4           
+perl-modules-5.36        5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-42496       Critical    0.4% (36th)    0.4           
+minimatch                10.0.3                    10.2.3                                               npm        GHSA-7r86-cg39-jmmj  High        0.5% (41st)    0.4           
+minimatch                3.1.2                     3.1.3                                                npm        GHSA-7r86-cg39-jmmj  High        0.5% (41st)    0.4           
+minimatch                9.0.5                     9.0.7                                                npm        GHSA-7r86-cg39-jmmj  High        0.5% (41st)    0.4           
+launch-editor            2.6.1                     2.9.0                                                npm        GHSA-c27g-q93r-2cwf  High        0.5% (41st)    0.4           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76036       Critical    0.4% (34th)    0.4           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76036       Critical    0.4% (34th)    0.4           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-62p4-gmf7-7g93  High        0.5% (39th)    0.4           
+stdlib                   go1.19.8                  *1.24.12, 1.25.6                                     go-module  GO-2026-4342         Medium      0.6% (48th)    0.4           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-34982       High        0.5% (38th)    0.4           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-34982       High        0.5% (38th)    0.4           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-34982       High        0.5% (38th)    0.4           
+stdlib                   go1.19.8                  *1.22.11, 1.23.5, 1.24.0-rc.2                        go-module  GO-2025-3420         Medium      0.7% (48th)    0.4           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-42307       Medium      0.8% (52nd)    0.4           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-42307       Medium      0.8% (52nd)    0.4           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-42307       Medium      0.8% (52nd)    0.4           
+stdlib                   go1.19.8                  *1.21.8, 1.22.1                                      go-module  GO-2024-2598         Medium      0.7% (49th)    0.4           
+stdlib                   go1.19.8                  *1.25.13, 1.26.6, 1.27.0-rc.3                        go-module  GO-2026-6088         High        0.5% (39th)    0.4           
+stdlib                   go1.19.8                  *1.25.13, 1.26.6, 1.27.0-rc.3                        go-module  GO-2026-6090         High        0.5% (39th)    0.4           
+libglib2.0-0             2.74.6-2+deb12u9          (won't fix)                                          deb        CVE-2026-58015       High        0.5% (39th)    0.4           
+stdlib                   go1.19.8                  *1.23.10, 1.24.4                                     go-module  GO-2025-3751         Medium      0.6% (46th)    0.4           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.14, *3.14.6, ...     binary     CVE-2026-7774        Medium      0.6% (46th)    0.4           
+nginx                    1.22.1-9+deb12u9                                                               deb        CVE-2026-56434       High        0.4% (37th)    0.4           
+nginx-common             1.22.1-9+deb12u9                                                               deb        CVE-2026-56434       High        0.4% (37th)    0.4           
+minimatch                10.0.3                    10.2.3                                               npm        GHSA-23c5-xmqv-rm74  High        0.5% (38th)    0.4           
+minimatch                3.1.2                     3.1.4                                                npm        GHSA-23c5-xmqv-rm74  High        0.5% (38th)    0.4           
+minimatch                9.0.5                     9.0.7                                                npm        GHSA-23c5-xmqv-rm74  High        0.5% (38th)    0.4           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76040       High        0.4% (36th)    0.4           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76040       High        0.4% (36th)    0.4           
+libldap-2.5-0            2.5.13+dfsg-5                                                                  deb        CVE-2017-17740       Negligible  7.0% (93rd)    0.4           
+ws                       8.11.0                    8.20.1                                               npm        GHSA-58qx-3vcg-4xpx  Medium      0.7% (51st)    0.4           
+ws                       8.17.1                    8.20.1                                               npm        GHSA-58qx-3vcg-4xpx  Medium      0.7% (51st)    0.4           
+immutable                4.3.4                     4.3.9                                                npm        GHSA-xvcm-6775-5m9r  High        0.4% (36th)    0.3           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.15, *3.14.7, ...     binary     CVE-2026-11972       High        0.4% (37th)    0.3           
+libssl-dev               3.0.20-1~deb12u2                                                               deb        CVE-2026-14456       High        0.5% (38th)    0.3           
+libssl3                  3.0.20-1~deb12u2                                                               deb        CVE-2026-14456       High        0.5% (38th)    0.3           
+openssl                  3.0.20-1~deb12u2                                                               deb        CVE-2026-14456       High        0.5% (38th)    0.3           
+stdlib                   go1.19.8                  *1.25.13, 1.26.6, 1.27.0-rc.3                        go-module  GO-2026-5972         High        0.5% (38th)    0.3           
+stdlib                   go1.19.8                  *1.24.11, 1.25.5                                     go-module  GO-2025-4155         High        0.5% (38th)    0.3           
+libssh2-1                1.10.0-3+b1                                                                    deb        CVE-2026-58051       High        0.4% (36th)    0.3           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-xj96-63gp-2gmr  High        0.4% (36th)    0.3           
+libncurses6              6.4-4                     (won't fix)                                          deb        CVE-2025-69720       High        0.4% (37th)    0.3           
+libncursesw6             6.4-4                     (won't fix)                                          deb        CVE-2025-69720       High        0.4% (37th)    0.3           
+libtinfo6                6.4-4                     (won't fix)                                          deb        CVE-2025-69720       High        0.4% (37th)    0.3           
+ncurses-base             6.4-4                     (won't fix)                                          deb        CVE-2025-69720       High        0.4% (37th)    0.3           
+ncurses-bin              6.4-4                     (won't fix)                                          deb        CVE-2025-69720       High        0.4% (37th)    0.3           
+immutable                4.3.4                     4.3.9                                                npm        GHSA-v56q-mh7h-f735  High        0.4% (36th)    0.3           
+python                   3.14.2                    3.13.13, *3.14.4, 3.15.0a8                           binary     CVE-2026-3644        High        0.5% (39th)    0.3           
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-12087       Critical    0.4% (30th)    0.3           
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-12087       Critical    0.4% (30th)    0.3           
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-12087       Critical    0.4% (30th)    0.3           
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-12087       Critical    0.4% (30th)    0.3           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76034       High        0.4% (34th)    0.3           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76034       High        0.4% (34th)    0.3           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76035       Critical    0.4% (29th)    0.3           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76035       Critical    0.4% (29th)    0.3           
+libperl5.36              5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-9538        High        0.4% (37th)    0.3           
+perl                     5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-9538        High        0.4% (37th)    0.3           
+perl-base                5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-9538        High        0.4% (37th)    0.3           
+perl-modules-5.36        5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-9538        High        0.4% (37th)    0.3           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.14, *3.14.6, ...     binary     CVE-2026-9669        High        0.4% (35th)    0.3           
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-57433       Critical    0.4% (28th)    0.3           
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-57433       Critical    0.4% (28th)    0.3           
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-57433       Critical    0.4% (28th)    0.3           
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-57433       Critical    0.4% (28th)    0.3           
+image-size               0.5.5                                                                          npm        GHSA-5p2g-fcmc-qvqq  High        0.4% (36th)    0.3           
+image-size               0.5.5                                                                          npm        GHSA-w3rx-r6r6-pgpr  High        0.4% (36th)    0.3           
+libxml2                  2.9.14+dfsg-1.3~deb12u6   (won't fix)                                          deb        CVE-2026-6653        Critical    0.4% (28th)    0.3           
+vim                      2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2025-53906       Medium      0.7% (51st)    0.3           
+vim-common               2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2025-53906       Medium      0.7% (51st)    0.3           
+vim-runtime              2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2025-53906       Medium      0.7% (51st)    0.3           
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-45186       High        0.4% (37th)    0.3           
+libnss3                  2:3.87.1-1+deb12u4        (won't fix)                                          deb        CVE-2023-6135        Medium      0.7% (50th)    0.3           
+stdlib                   go1.19.8                  *1.19.10, 1.20.5                                     go-module  GO-2023-1840         High        0.4% (35th)    0.3           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76038       High        0.4% (32nd)    0.3           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76038       High        0.4% (32nd)    0.3           
+python                   3.14.2                    3.11.16, 3.12.14, 3.13.14, *3.14.5rc1, ...           binary     CVE-2026-3298        High        0.4% (32nd)    0.3           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-vjc4-5qp5-m44j  High        0.4% (32nd)    0.3           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76043       High        0.4% (32nd)    0.3           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76047       High        0.4% (32nd)    0.3           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76043       High        0.4% (32nd)    0.3           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76047       High        0.4% (32nd)    0.3           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-45hq-cxwh-f6vc  High        0.4% (35th)    0.3           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-5x94-69rx-g8h2  High        0.4% (35th)    0.3           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-phj9-mv4w-65pm  High        0.4% (35th)    0.3           
+libperl5.36              5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-42497       High        0.4% (34th)    0.3           
+perl                     5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-42497       High        0.4% (34th)    0.3           
+perl-base                5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-42497       High        0.4% (34th)    0.3           
+perl-modules-5.36        5.36.0-7+deb12u3          (won't fix)                                          deb        CVE-2026-42497       High        0.4% (34th)    0.3           
+pdfkit                   1.0.0                                                                          python     GHSA-9g3x-6x24-vf9f  High        0.4% (32nd)    0.3           
+brace-expansion          1.1.11                    1.1.18                                               npm        GHSA-rgw5-rvv9-x895  High        0.4% (34th)    0.3           
+brace-expansion          1.1.15                    1.1.18                                               npm        GHSA-rgw5-rvv9-x895  High        0.4% (34th)    0.3           
+brace-expansion          2.0.2                     2.1.4                                                npm        GHSA-rgw5-rvv9-x895  High        0.4% (34th)    0.3           
+brace-expansion          5.0.7                     5.0.9                                                npm        GHSA-rgw5-rvv9-x895  High        0.4% (34th)    0.3           
+python                   3.14.2                    3.10.20, 3.11.15, 3.12.13, 3.13.12, *3.14.3, ...     binary     CVE-2026-1299        Medium      0.6% (44th)    0.3           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-8v84-f9pq-wr9x  High        0.4% (34th)    0.3           
+python                   3.14.2                    3.10.20, 3.11.15, 3.12.13, 3.13.12, *3.14.3, ...     binary     CVE-2025-11468       Medium      0.6% (44th)    0.3           
+libssl-dev               3.0.20-1~deb12u2          (won't fix)                                          deb        CVE-2026-42767       Medium      0.6% (43rd)    0.3           
+libssl3                  3.0.20-1~deb12u2          (won't fix)                                          deb        CVE-2026-42767       Medium      0.6% (43rd)    0.3           
+openssl                  3.0.20-1~deb12u2          (won't fix)                                          deb        CVE-2026-42767       Medium      0.6% (43rd)    0.3           
+picomatch                2.3.1                     2.3.2                                                npm        GHSA-c2c7-rcm5-vvqj  High        0.4% (33rd)    0.3           
+picomatch                4.0.3                     4.0.4                                                npm        GHSA-c2c7-rcm5-vvqj  High        0.4% (33rd)    0.3           
+stdlib                   go1.19.8                  *1.23.12, 1.24.6                                     go-module  GO-2025-3956         Medium      0.5% (42nd)    0.3           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.14, *3.14.5rc1, ...  binary     CVE-2026-1502        Medium      0.6% (44th)    0.3           
+libexpat1                2.5.0-1+deb12u2           (won't fix)                                          deb        CVE-2026-41080       High        0.4% (33rd)    0.3           
+pypdf                    6.13.3                    6.14.2                                               python     GHSA-g867-7843-wf8q  High        0.4% (29th)    0.3           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8932        High        0.4% (32nd)    0.3           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8932        High        0.4% (32nd)    0.3           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8932        High        0.4% (32nd)    0.3           
+libsndfile1              1.2.0-1+deb12u1           (won't fix)                                          deb        CVE-2024-50613       Medium      0.5% (41st)    0.3           
+libglib2.0-0             2.74.6-2+deb12u9          (won't fix)                                          deb        CVE-2026-58013       High        0.4% (30th)    0.3           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-41411       Medium      0.5% (40th)    0.3           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-41411       Medium      0.5% (40th)    0.3           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-41411       Medium      0.5% (40th)    0.3           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-6r8x-57c9-28j4  High        0.4% (31st)    0.3           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-9hw9-ch79-4vh6  High        0.4% (31st)    0.3           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-jjj6-mw9f-p565  High        0.4% (31st)    0.3           
+libc-bin                 2.36-9+deb12u14                                                                deb        CVE-2018-20796       Negligible  5.8% (92nd)    0.3           
+libc6                    2.36-9+deb12u14                                                                deb        CVE-2018-20796       Negligible  5.8% (92nd)    0.3           
+libglib2.0-0             2.74.6-2+deb12u9          (won't fix)                                          deb        CVE-2026-58010       High        0.4% (29th)    0.3           
+libglib2.0-0             2.74.6-2+deb12u9          (won't fix)                                          deb        CVE-2026-58012       High        0.4% (29th)    0.3           
+stdlib                   go1.19.8                  *1.24.9, 1.25.3                                      go-module  GO-2025-4007         High        0.4% (31st)    0.3           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76046       High        0.4% (29th)    0.3           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76046       High        0.4% (29th)    0.3           
+postcss                  5.2.18                    8.5.18                                               npm        GHSA-r28c-9q8g-f849  High        0.4% (30th)    0.3           
+postcss                  6.0.23                    8.5.18                                               npm        GHSA-r28c-9q8g-f849  High        0.4% (30th)    0.3           
+postcss                  7.0.39                    8.5.18                                               npm        GHSA-r28c-9q8g-f849  High        0.4% (30th)    0.3           
+postcss                  8.4.31                    8.5.18                                               npm        GHSA-r28c-9q8g-f849  High        0.4% (30th)    0.3           
+postcss                  8.5.16                    8.5.18                                               npm        GHSA-r28c-9q8g-f849  High        0.4% (30th)    0.3           
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-48959       High        0.4% (30th)    0.3           
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-48959       High        0.4% (30th)    0.3           
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-48959       High        0.4% (30th)    0.3           
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-48959       High        0.4% (30th)    0.3           
+libc-bin                 2.36-9+deb12u14           (won't fix)                                          deb        CVE-2026-5928        High        0.4% (30th)    0.3           
+libc6                    2.36-9+deb12u14           (won't fix)                                          deb        CVE-2026-5928        High        0.4% (30th)    0.3           
+pypdf                    6.13.3                    6.14.1                                               python     GHSA-5xf7-4p34-54qr  High        0.3% (27th)    0.3           
+libglib2.0-0             2.74.6-2+deb12u9          (won't fix)                                          deb        CVE-2026-58011       High        0.4% (29th)    0.3           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.14, *3.14.6, ...     binary     CVE-2026-3276        Medium      0.5% (39th)    0.3           
+python                   3.14.2                    3.10.20, 3.11.15, 3.12.13, 3.13.12, *3.14.3, ...     binary     CVE-2025-15282       Medium      0.5% (40th)    0.3           
+stdlib                   go1.19.8                  *1.24.8, 1.25.2                                      go-module  GO-2025-4012         Medium      0.5% (42nd)    0.3           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73078       High        0.3% (26th)    0.3           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73078       High        0.3% (26th)    0.3           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73078       High        0.3% (26th)    0.3           
+tmp                      0.2.4                     0.2.6                                                npm        GHSA-ph9p-34f9-6g65  High        0.4% (28th)    0.3           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-6429        Medium      0.5% (41st)    0.3           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-6429        Medium      0.5% (41st)    0.3           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-6429        Medium      0.5% (41st)    0.3           
+stdlib                   go1.19.8                  *1.24.8, 1.25.2                                      go-module  GO-2025-4013         High        0.4% (28th)    0.3           
+stdlib                   go1.19.8                  *1.24.8, 1.25.2                                      go-module  GO-2025-4011         Medium      0.5% (41st)    0.3           
+stdlib                   go1.19.8                  *1.24.8, 1.25.2                                      go-module  GO-2025-4015         Medium      0.5% (41st)    0.3           
+stdlib                   go1.19.8                  *1.25.9, 1.26.2                                      go-module  GO-2026-4946         High        0.4% (28th)    0.3           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76045       High        0.3% (25th)    0.3           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76045       High        0.3% (25th)    0.3           
+engine.io                6.5.4                     6.6.7                                                npm        GHSA-r635-g3xr-vw7x  High        0.4% (28th)    0.3           
+libldap-2.5-0            2.5.13+dfsg-5                                                                  deb        CVE-2015-3276        Negligible  5.3% (91st)    0.3           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76044       High        0.3% (26th)    0.3           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76044       High        0.3% (26th)    0.3           
+python                   3.14.2                    3.10.20, 3.11.15, 3.12.13, 3.13.12, *3.14.3, ...     binary     CVE-2026-0865        Medium      0.5% (39th)    0.3           
+socket.io-parser         4.2.4                     4.2.7                                                npm        GHSA-2m8v-j782-fhvr  High        0.3% (27th)    0.3           
+socket.io-parser         4.2.5                     4.2.7                                                npm        GHSA-2m8v-j782-fhvr  High        0.3% (27th)    0.3           
+stdlib                   go1.19.8                  *1.22.11, 1.23.5, 1.24.0-rc.2                        go-module  GO-2025-3373         Medium      0.5% (38th)    0.3           
+libglib2.0-0             2.74.6-2+deb12u9          (won't fix)                                          deb        CVE-2026-58014       High        0.3% (25th)    0.3           
+stdlib                   go1.19.8                  *1.23.12, 1.24.6                                     go-module  GO-2025-3849         High        0.4% (28th)    0.3           
+brace-expansion          1.1.11                    1.1.17                                               npm        GHSA-mh99-v99m-4gvg  High        0.3% (26th)    0.3           
+brace-expansion          1.1.15                    1.1.17                                               npm        GHSA-mh99-v99m-4gvg  High        0.3% (26th)    0.3           
+brace-expansion          2.0.2                     2.1.3                                                npm        GHSA-mh99-v99m-4gvg  High        0.3% (26th)    0.3           
+brace-expansion          5.0.7                     5.0.8                                                npm        GHSA-mh99-v99m-4gvg  High        0.3% (26th)    0.3           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-12064       High        0.3% (26th)    0.3           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-12064       High        0.3% (26th)    0.3           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-12064       High        0.3% (26th)    0.3           
+gzip                     1.12-1                    (won't fix)                                          deb        CVE-2026-41992       High        0.3% (26th)    0.3           
+node                     24.12.0                   22.23.2, *24.18.1, 26.5.1                            binary     CVE-2026-58042       Medium      0.5% (38th)    0.3           
+libnss3                  2:3.87.1-1+deb12u4        (won't fix)                                          deb        CVE-2024-7531        Medium      0.4% (36th)    0.2           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.14, *3.14.6, ...     binary     CVE-2026-8328        Medium      0.5% (38th)    0.2           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76039       Medium      0.4% (36th)    0.2           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76039       Medium      0.4% (36th)    0.2           
+brace-expansion          1.1.11                    1.1.13                                               npm        GHSA-f886-m6hf-6m8v  Medium      0.4% (36th)    0.2           
+brace-expansion          2.0.2                     2.0.3                                                npm        GHSA-f886-m6hf-6m8v  Medium      0.4% (36th)    0.2           
+brace-expansion          1.1.11                    1.1.16                                               npm        GHSA-3jxr-9vmj-r5cp  High        0.3% (27th)    0.2           
+brace-expansion          1.1.15                    1.1.16                                               npm        GHSA-3jxr-9vmj-r5cp  High        0.3% (27th)    0.2           
+brace-expansion          2.0.2                     2.1.2                                                npm        GHSA-3jxr-9vmj-r5cp  High        0.3% (27th)    0.2           
+ip-address               10.0.1                    10.1.1                                               npm        GHSA-v2v4-37r5-5v8g  Medium      0.5% (38th)    0.2           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8286        High        0.3% (23rd)    0.2           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8286        High        0.3% (23rd)    0.2           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8286        High        0.3% (23rd)    0.2           
+stdlib                   go1.19.8                  *1.25.13, 1.26.6, 1.27.0-rc.3                        go-module  GO-2026-6218         Medium      0.4% (36th)    0.2           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-5545        Medium      0.4% (34th)    0.2           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-5545        Medium      0.4% (34th)    0.2           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-5545        Medium      0.4% (34th)    0.2           
+stdlib                   go1.19.8                  *1.21.11, 1.22.4                                     go-module  GO-2024-2888         Medium      0.4% (37th)    0.2           
+node                     24.12.0                   20.20.2, 22.22.2, *24.14.1, 25.8.2                   binary     CVE-2026-21714       Medium      0.5% (37th)    0.2           
+nanoid                   3.3.15                    3.3.16                                               npm        GHSA-28wg-ghj8-5hjv  High        0.3% (24th)    0.2           
+nanoid                   3.3.15                    3.3.18                                               npm        GHSA-2v37-7h3g-55p8  High        0.3% (24th)    0.2           
+nanoid                   3.3.8                     3.3.16                                               npm        GHSA-28wg-ghj8-5hjv  High        0.3% (24th)    0.2           
+nanoid                   3.3.8                     3.3.18                                               npm        GHSA-2v37-7h3g-55p8  High        0.3% (24th)    0.2           
+python                   3.14.2                    3.10.20, 3.11.15, 3.12.13, 3.13.12, *3.14.3, ...     binary     CVE-2026-0672        Medium      0.4% (34th)    0.2           
+setuptools               81.0.0                    83.0.0                                               python     GHSA-h35f-9h28-mq5c  Medium      0.4% (33rd)    0.2           
+bsdutils                 1:2.38.1-5+deb12u3        (won't fix)                                          deb        CVE-2026-3184        Medium      0.4% (36th)    0.2           
+libblkid1                2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-3184        Medium      0.4% (36th)    0.2           
+libmount1                2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-3184        Medium      0.4% (36th)    0.2           
+libsmartcols1            2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-3184        Medium      0.4% (36th)    0.2           
+libuuid1                 2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-3184        Medium      0.4% (36th)    0.2           
+mount                    2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-3184        Medium      0.4% (36th)    0.2           
+util-linux               2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-3184        Medium      0.4% (36th)    0.2           
+util-linux-extra         2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-3184        Medium      0.4% (36th)    0.2           
+stdlib                   go1.19.8                  *1.24.8, 1.25.2                                      go-module  GO-2025-4008         Medium      0.4% (36th)    0.2           
+stdlib                   go1.19.8                  *1.24.8, 1.25.2                                      go-module  GO-2025-4010         Medium      0.4% (36th)    0.2           
+libssh2-1                1.10.0-3+b1                                                                    deb        CVE-2026-66032       High        0.3% (20th)    0.2           
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-19487       Medium      0.4% (36th)    0.2           
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-19487       Medium      0.4% (36th)    0.2           
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-19487       Medium      0.4% (36th)    0.2           
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-19487       Medium      0.4% (36th)    0.2           
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-48962       High        0.3% (21st)    0.2           
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-48962       High        0.3% (21st)    0.2           
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-48962       High        0.3% (21st)    0.2           
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-48962       High        0.3% (21st)    0.2           
+cookie                   0.4.2                     0.7.0                                                npm        GHSA-pxg6-pf52-xh8x  Low         0.7% (51st)    0.2           
+ip-address               10.0.1                    10.3.1                                               npm        GHSA-mwp4-54f8-5fhr  High        0.3% (21st)    0.2           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-6276        High        0.3% (22nd)    0.2           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-6276        High        0.3% (22nd)    0.2           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-6276        High        0.3% (22nd)    0.2           
+aiohttp                  3.14.2                    3.14.3                                               python     GHSA-cq5v-8q36-5273  High        0.3% (22nd)    0.2           
+yaml                     1.10.2                    1.10.3                                               npm        GHSA-48c2-rrv3-qjmp  Medium      0.5% (38th)    0.2           
+sqlparse                 0.5.5                     0.6.0                                                python     GHSA-f2ff-p2ww-7p4p  High        0.3% (18th)    0.2           
+sqlparse                 0.5.5                     0.6.0                                                python     GHSA-pwgv-4x5q-6m9f  High        0.3% (18th)    0.2           
+vim                      2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2026-26269       High        0.3% (20th)    0.2           
+vim-common               2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2026-26269       High        0.3% (20th)    0.2           
+vim-runtime              2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2026-26269       High        0.3% (20th)    0.2           
+libsqlite3-0             3.40.1-2+deb12u2          (won't fix)                                          deb        CVE-2025-7458        Critical    0.2% (14th)    0.2           
+picomatch                2.3.1                     2.3.2                                                npm        GHSA-3v7f-55p6-f55p  Medium      0.4% (34th)    0.2           
+picomatch                4.0.3                     4.0.4                                                npm        GHSA-3v7f-55p6-f55p  Medium      0.4% (34th)    0.2           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.14, *3.14.5rc1, ...  binary     CVE-2026-4786        High        0.3% (21st)    0.2           
+node                     24.12.0                   20.20.2, 22.22.2, *24.14.1, 25.8.2                   binary     CVE-2026-21713       Medium      0.4% (31st)    0.2           
+sqlparse                 0.5.5                     0.6.0                                                python     GHSA-prg7-hcfm-mfcr  High        0.3% (20th)    0.2           
+stdlib                   go1.19.8                  *1.25.10, 1.26.3                                     go-module  GO-2026-4980         Medium      0.4% (30th)    0.2           
+libc-bin                 2.36-9+deb12u14           (won't fix)                                          deb        CVE-2026-6238        Medium      0.4% (29th)    0.2           
+libc6                    2.36-9+deb12u14           (won't fix)                                          deb        CVE-2026-6238        Medium      0.4% (29th)    0.2           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-pg7v-jwj7-p798  Medium      0.4% (33rd)    0.2           
+libsqlite3-0             3.40.1-2+deb12u2          (won't fix)                                          deb        CVE-2025-7709        Medium      0.3% (27th)    0.2           
+python                   3.14.2                    3.13.15, *3.14.7, 3.15.0a6                           binary     CVE-2025-15366       Medium      0.4% (30th)    0.2           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-47162       High        0.2% (16th)    0.2           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-47162       High        0.2% (16th)    0.2           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-47162       High        0.2% (16th)    0.2           
+pypdf                    6.13.3                    6.14.0                                               python     GHSA-55h5-xmcq-c37v  Medium      0.3% (27th)    0.2           
+libharfbuzz-subset0      6.0.0+dfsg-3              (won't fix)                                          deb        CVE-2026-22693       Medium      0.4% (32nd)    0.2           
+libharfbuzz0b            6.0.0+dfsg-3              (won't fix)                                          deb        CVE-2026-22693       Medium      0.4% (32nd)    0.2           
+stdlib                   go1.19.8                  *1.25.10, 1.26.3                                     go-module  GO-2026-4976         Medium      0.4% (32nd)    0.2           
+tar                      1.34+dfsg-1.2+deb12u1                                                          deb        CVE-2005-2541        Negligible  4.0% (89th)    0.2           
+libpam-modules           1.5.2-6+deb12u2           (won't fix)                                          deb        CVE-2026-54411       Medium      0.3% (26th)    0.2           
+libpam-modules-bin       1.5.2-6+deb12u2           (won't fix)                                          deb        CVE-2026-54411       Medium      0.3% (26th)    0.2           
+libpam-runtime           1.5.2-6+deb12u2           (won't fix)                                          deb        CVE-2026-54411       Medium      0.3% (26th)    0.2           
+libpam0g                 1.5.2-6+deb12u2           (won't fix)                                          deb        CVE-2026-54411       Medium      0.3% (26th)    0.2           
+stdlib                   go1.19.8                  *1.25.12, 1.26.5, 1.27.0-rc.2                        go-module  GO-2026-5856         Medium      0.4% (31st)    0.2           
+tar                      1.34+dfsg-1.2+deb12u1     (won't fix)                                          deb        CVE-2026-5704        Medium      0.4% (30th)    0.2           
+stdlib                   go1.19.8                  *1.24.8, 1.25.2                                      go-module  GO-2025-4014         Medium      0.4% (34th)    0.2           
+libssh2-1                1.10.0-3+b1                                                                    deb        CVE-2026-66034       High        0.3% (16th)    0.2           
+stdlib                   go1.19.8                  *1.25.11, 1.26.4                                     go-module  GO-2026-5039         Medium      0.4% (30th)    0.2           
+svgo                     2.8.0                     2.8.3                                                npm        GHSA-2p49-hgcm-8545  High        0.2% (15th)    0.2           
+stdlib                   go1.19.8                  *1.23.7, 1.24.1                                      go-module  GO-2025-3503         Medium      0.4% (33rd)    0.2           
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-7017        High        0.3% (17th)    0.2           
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-7017        High        0.3% (17th)    0.2           
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-7017        High        0.3% (17th)    0.2           
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-7017        High        0.3% (17th)    0.2           
+launch-editor            2.6.1                     2.14.1                                               npm        GHSA-v6wh-96g9-6wx3  Medium      0.3% (28th)    0.2           
+lodash                   4.17.21                   4.18.0                                               npm        GHSA-f23m-r3pf-42rh  Medium      0.3% (24th)    0.2           
+lodash-es                4.17.21                   4.18.0                                               npm        GHSA-f23m-r3pf-42rh  Medium      0.3% (24th)    0.2           
+stdlib                   go1.19.8                  *1.25.8, 1.26.1                                      go-module  GO-2026-4603         Medium      0.3% (25th)    0.2           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8458        Medium      0.3% (24th)    0.2           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8458        Medium      0.3% (24th)    0.2           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-8458        Medium      0.3% (24th)    0.2           
+node                     24.12.0                   *24.14.1, 25.8.2                                     binary     CVE-2026-21712       Medium      0.3% (25th)    0.2           
+pypdf                    6.13.3                    6.14.0                                               python     GHSA-5qjq-93h5-hrgp  Medium      0.3% (23rd)    0.2           
+pillow                   12.2.0                    12.3.0                                               python     GHSA-fj7v-r99m-22gq  Medium      0.3% (24th)    0.2           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-4873        Medium      0.3% (25th)    0.2           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-4873        Medium      0.3% (25th)    0.2           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-4873        Medium      0.3% (25th)    0.2           
+python                   3.14.2                    3.15.0a6                                             binary     CVE-2025-15367       Medium      0.3% (25th)    0.2           
+stdlib                   go1.19.8                  *1.25.12, 1.26.5, 1.27.0-rc.2                        go-module  GO-2026-4970         High        0.2% (14th)    0.2           
+postcss                  5.2.18                    8.5.23                                               npm        GHSA-fxqj-rqcc-2cmp  Medium      0.3% (24th)    0.2           
+postcss                  6.0.23                    8.5.23                                               npm        GHSA-fxqj-rqcc-2cmp  Medium      0.3% (24th)    0.2           
+postcss                  7.0.39                    8.5.23                                               npm        GHSA-fxqj-rqcc-2cmp  Medium      0.3% (24th)    0.2           
+postcss                  8.4.31                    8.5.23                                               npm        GHSA-fxqj-rqcc-2cmp  Medium      0.3% (24th)    0.2           
+postcss                  8.5.16                    8.5.23                                               npm        GHSA-fxqj-rqcc-2cmp  Medium      0.3% (24th)    0.2           
+pip                      25.3                      26.1.2                                               python     GHSA-wf93-45jw-7689  Medium      0.3% (24th)    0.2           
+libc-bin                 2.36-9+deb12u14           (won't fix)                                          deb        CVE-2026-5435        High        0.2% (14th)    0.2           
+libc6                    2.36-9+deb12u14           (won't fix)                                          deb        CVE-2026-5435        High        0.2% (14th)    0.2           
+stdlib                   go1.19.8                  *1.25.10, 1.26.3                                     go-module  GO-2026-4982         Medium      0.3% (24th)    0.2           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-52860       High        0.2% (13th)    0.2           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-52860       High        0.2% (13th)    0.2           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-52860       High        0.2% (13th)    0.2           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76041       Medium      0.4% (29th)    0.2           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76041       Medium      0.4% (29th)    0.2           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76037       High        0.2% (11th)    0.2           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76037       High        0.2% (11th)    0.2           
+vim                      2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2025-29768       Medium      0.4% (28th)    0.2           
+vim-common               2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2025-29768       Medium      0.4% (28th)    0.2           
+vim-runtime              2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2025-29768       Medium      0.4% (28th)    0.2           
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-57432       High        0.2% (11th)    0.2           
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-57432       High        0.2% (11th)    0.2           
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-57432       High        0.2% (11th)    0.2           
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-57432       High        0.2% (11th)    0.2           
+libsndfile1              1.2.0-1+deb12u1           (won't fix)                                          deb        CVE-2025-56226       Medium      0.3% (25th)    0.2           
+stdlib                   go1.19.8                  *1.25.9, 1.26.2                                      go-module  GO-2026-4864         Medium      0.3% (21st)    0.2           
+stdlib                   go1.19.8                  *1.24.11, 1.25.5                                     go-module  GO-2025-4175         Medium      0.3% (21st)    0.2           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-59856       High        0.2% (12th)    0.2           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-59856       High        0.2% (12th)    0.2           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-59856       High        0.2% (12th)    0.2           
+node                     24.12.0                   22.23.2, *24.18.1, 26.5.1                            binary     CVE-2026-58041       Medium      0.3% (24th)    0.2           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76033       Medium      0.4% (28th)    0.2           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76033       Medium      0.4% (28th)    0.2           
+libc-bin                 2.36-9+deb12u14                                                                deb        CVE-2019-1010022     Negligible  3.2% (87th)    0.2           
+libc6                    2.36-9+deb12u14                                                                deb        CVE-2019-1010022     Negligible  3.2% (87th)    0.2           
+stdlib                   go1.19.8                  *1.25.9, 1.26.2                                      go-module  GO-2026-4865         Medium      0.3% (21st)    0.2           
+diff                     8.0.2                     8.0.3                                                npm        GHSA-73rr-hh4g-fpgx  Low         0.6% (44th)    0.2           
+libc-bin                 2.36-9+deb12u14                                                                deb        CVE-2019-1010024     Negligible  3.2% (87th)    0.2           
+libc6                    2.36-9+deb12u14                                                                deb        CVE-2019-1010024     Negligible  3.2% (87th)    0.2           
+weasyprint               68.0                                                                           python     GHSA-jhhc-3hcp-qhm5  Medium      0.3% (19th)    0.2           
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-50219       Medium      0.3% (21st)    0.2           
+libllvm15                1:15.0.6-4+b1             (won't fix)                                          deb        CVE-2024-7883        Low         0.5% (38th)    0.2           
+cryptography             46.0.7                    49.0.0                                               python     GHSA-jwv3-5hgf-82ww  High        0.2% (9th)     0.2           
+node                     24.12.0                   20.20.2, 22.22.2, *24.14.1, 25.8.2                   binary     CVE-2026-21717       Medium      0.3% (20th)    0.2           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-52858       High        0.2% (10th)    0.2           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-52858       High        0.2% (10th)    0.2           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-52858       High        0.2% (10th)    0.2           
+node                     24.12.0                   22.23.2, *24.18.1, 26.5.1                            binary     CVE-2026-58040       Medium      0.3% (19th)    0.2           
+stdlib                   go1.19.8                  *1.25.9, 1.26.2                                      go-module  GO-2026-4869         Medium      0.3% (21st)    0.2           
+libc-bin                 2.36-9+deb12u14                                                                deb        CVE-2019-1010023     Negligible  3.0% (86th)    0.2           
+libc6                    2.36-9+deb12u14                                                                deb        CVE-2019-1010023     Negligible  3.0% (86th)    0.2           
+node                     24.12.0                   22.23.0, *24.17.0, 26.3.1                            binary     CVE-2026-48617       High        0.2% (15th)    0.1           
+curl                     7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-1965        Medium      0.3% (17th)    0.1           
+libcurl3-gnutls          7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-1965        Medium      0.3% (17th)    0.1           
+libcurl4                 7.88.1-10+deb12u15        (won't fix)                                          deb        CVE-2026-1965        Medium      0.3% (17th)    0.1           
+libnghttp2-14            1.52.0-1+deb12u3          (won't fix)                                          deb        CVE-2026-58055       Medium      0.3% (18th)    0.1           
+libexpat1                2.5.0-1+deb12u2           (won't fix)                                          deb        CVE-2026-25210       High        0.2% (9th)     0.1           
+stdlib                   go1.19.8                  *1.25.13, 1.26.6, 1.27.0-rc.3                        go-module  GO-2026-6091         Medium      0.3% (18th)    0.1           
+libxtables12             1.8.9-2                                                                        deb        CVE-2012-2663        Negligible  2.8% (85th)    0.1           
+stdlib                   go1.19.8                  *1.24.12, 1.25.6                                     go-module  GO-2026-4340         Medium      0.3% (20th)    0.1           
+libsqlite3-0             3.40.1-2+deb12u2          (won't fix)                                          deb        CVE-2026-11824       High        0.2% (7th)     0.1           
+libsqlite3-0             3.40.1-2+deb12u2          (won't fix)                                          deb        CVE-2026-11822       High        0.2% (7th)     0.1           
+cryptography             46.0.7                    50.0.0                                               python     GHSA-g6cj-pr64-35w5  High        0.2% (7th)     0.1           
+python                   3.14.2                    3.13.13, *3.14.4, 3.15.0a8                           binary     CVE-2026-4519        Low         0.3% (23rd)    0.1           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28421       High        0.2% (7th)     0.1           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28421       High        0.2% (7th)     0.1           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28421       High        0.2% (7th)     0.1           
+stdlib                   go1.19.8                  *1.23.10, 1.24.4                                     go-module  GO-2025-3750         Medium      0.3% (17th)    0.1           
+login                    1:4.13+dfsg1-1+deb12u2    (won't fix)                                          deb        CVE-2024-56433       Low         0.4% (34th)    0.1           
+passwd                   1:4.13+dfsg1-1+deb12u2    (won't fix)                                          deb        CVE-2024-56433       Low         0.4% (34th)    0.1           
+git                      1:2.39.5-0+deb12u3                                                             deb        CVE-2022-24975       Negligible  2.6% (84th)    0.1           
+git-man                  1:2.39.5-0+deb12u3                                                             deb        CVE-2022-24975       Negligible  2.6% (84th)    0.1           
+libc-bin                 2.36-9+deb12u14                                                                deb        CVE-2010-4756        Negligible  2.6% (84th)    0.1           
+libc6                    2.36-9+deb12u14                                                                deb        CVE-2010-4756        Negligible  2.6% (84th)    0.1           
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-7010        Medium      0.2% (13th)    0.1           
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-7010        Medium      0.2% (13th)    0.1           
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-7010        Medium      0.2% (13th)    0.1           
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-7010        Medium      0.2% (13th)    0.1           
+brace-expansion          1.1.11                    1.1.12                                               npm        GHSA-v6h2-p8h4-qcjw  Low         0.5% (40th)    0.1           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-45130       Medium      0.2% (16th)    0.1           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-45130       Medium      0.2% (16th)    0.1           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-45130       Medium      0.2% (16th)    0.1           
+libpam-modules           1.5.2-6+deb12u2           (won't fix)                                          deb        CVE-2024-10041       Medium      0.3% (18th)    0.1           
+libpam-modules-bin       1.5.2-6+deb12u2           (won't fix)                                          deb        CVE-2024-10041       Medium      0.3% (18th)    0.1           
+libpam-runtime           1.5.2-6+deb12u2           (won't fix)                                          deb        CVE-2024-10041       Medium      0.3% (18th)    0.1           
+libpam0g                 1.5.2-6+deb12u2           (won't fix)                                          deb        CVE-2024-10041       Medium      0.3% (18th)    0.1           
+stdlib                   go1.19.8                  *1.22.12, 1.23.6, 1.24.0-rc.3                        go-module  GO-2025-3447         Medium      0.3% (20th)    0.1           
+coreutils                9.1-1                     (won't fix)                                          deb        CVE-2016-2781        Low         0.4% (35th)    0.1           
+libldap-2.5-0            2.5.13+dfsg-5                                                                  deb        CVE-2020-15719       Negligible  2.5% (83rd)    0.1           
+vim                      2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2026-25749       Medium      0.2% (11th)    0.1           
+vim-common               2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2026-25749       Medium      0.2% (11th)    0.1           
+vim-runtime              2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2026-25749       Medium      0.2% (11th)    0.1           
+libc-bin                 2.36-9+deb12u14                                                                deb        CVE-2019-9192        Negligible  2.4% (82nd)    0.1           
+libc6                    2.36-9+deb12u14                                                                deb        CVE-2019-9192        Negligible  2.4% (82nd)    0.1           
+libc-bin                 2.36-9+deb12u14                                                                deb        CVE-2026-6791        Medium      0.2% (11th)    0.1           
+libc6                    2.36-9+deb12u14                                                                deb        CVE-2026-6791        Medium      0.2% (11th)    0.1           
+python                   3.14.2                                                                         binary     CVE-2026-4360        Medium      0.3% (20th)    0.1           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-55895       High        0.2% (4th)     0.1           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-55895       High        0.2% (4th)     0.1           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-55895       High        0.2% (4th)     0.1           
+node                     24.12.0                   22.23.0, *24.17.0, 26.3.1                            binary     CVE-2026-48931       Low         0.3% (27th)    0.1           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28418       Medium      0.2% (12th)    0.1           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28418       Medium      0.2% (12th)    0.1           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28418       Medium      0.2% (12th)    0.1           
+zlib1g                   1:1.2.13.dfsg-1           (won't fix)                                          deb        CVE-2026-27171       Medium      0.2% (12th)    0.1           
+chromium-common          151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76042       Low         0.4% (30th)    0.1           
+chromium-headless-shell  151.0.7922.137-1~deb12u1                                                       deb        CVE-2026-76042       Low         0.4% (30th)    0.1           
+postcss                  5.2.18                    8.5.10                                               npm        GHSA-qx2v-qp2m-jg93  Medium      0.2% (10th)    0.1           
+postcss                  6.0.23                    8.5.10                                               npm        GHSA-qx2v-qp2m-jg93  Medium      0.2% (10th)    0.1           
+postcss                  7.0.39                    8.5.10                                               npm        GHSA-qx2v-qp2m-jg93  Medium      0.2% (10th)    0.1           
+postcss                  8.4.31                    8.5.10                                               npm        GHSA-qx2v-qp2m-jg93  Medium      0.2% (10th)    0.1           
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.13, *3.14.4, ...     binary     CVE-2026-2297        Medium      0.2% (11th)    0.1           
+libexpat1                2.5.0-1+deb12u2           (won't fix)                                          deb        CVE-2026-32777       Medium      0.2% (12th)    0.1           
+libc-bin                 2.36-9+deb12u14                                                                deb        CVE-2019-1010025     Negligible  2.3% (81st)    0.1           
+libc6                    2.36-9+deb12u14                                                                deb        CVE-2019-1010025     Negligible  2.3% (81st)    0.1           
+libacl1                  2.3.1-3                   (won't fix)                                          deb        CVE-2026-54369       High        0.2% (4th)     0.1           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73077       High        0.1% (3rd)     0.1           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73077       High        0.1% (3rd)     0.1           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73077       High        0.1% (3rd)     0.1           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-57456       High        0.1% (4th)     0.1           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-57456       High        0.1% (4th)     0.1           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-57456       High        0.1% (4th)     0.1           
+node                     24.12.0                   22.23.2, *24.18.1, 26.5.1                            binary     CVE-2026-58045       Medium      0.2% (9th)     0.1           
+libmariadb3              1:10.11.18-0+deb12u1      (won't fix)                                          deb        CVE-2026-44169       Medium      0.2% (15th)    0.1           
+mariadb-client           1:10.11.18-0+deb12u1      (won't fix)                                          deb        CVE-2026-44169       Medium      0.2% (15th)    0.1           
+mariadb-client-core      1:10.11.18-0+deb12u1      (won't fix)                                          deb        CVE-2026-44169       Medium      0.2% (15th)    0.1           
+mariadb-common           1:10.11.18-0+deb12u1      (won't fix)                                          deb        CVE-2026-44169       Medium      0.2% (15th)    0.1           
+vim                      2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2025-53905       Medium      0.2% (15th)    0.1           
+vim-common               2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2025-53905       Medium      0.2% (15th)    0.1           
+vim-runtime              2:9.0.1378-2+deb12u2      (won't fix)                                          deb        CVE-2025-53905       Medium      0.2% (15th)    0.1           
+cryptography             46.0.7                    49.0.0                                               python     GHSA-m2h6-j472-rp4c  Medium      0.2% (8th)     0.1           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73073       High        0.1% (4th)     0.1           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73073       High        0.1% (4th)     0.1           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73073       High        0.1% (4th)     0.1           
+libexpat1                2.5.0-1+deb12u2           (won't fix)                                          deb        CVE-2025-66382       Medium      0.2% (10th)    0.1           
+libglib2.0-0             2.74.6-2+deb12u9                                                               deb        CVE-2012-0039        Negligible  2.2% (80th)    0.1           
+sigstore                 4.0.0                     4.1.1                                                npm        GHSA-52v5-jr5w-gjxr  High        0.1% (4th)     0.1           
+node                     24.12.0                   20.20.0, 22.22.0, *24.13.0, 25.3.0                   binary     CVE-2025-55132       Medium      0.2% (14th)    0.1           
+showdown                 2.1.0                                                                          npm        GHSA-22g5-r2x5-97cx  Medium      0.2% (9th)     0.1           
+node                     24.12.0                   22.23.2, *24.18.1, 26.5.1                            binary     CVE-2026-58043       High        0.1% (3rd)     0.1           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-59858       High        0.1% (3rd)     0.1           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-59858       High        0.1% (3rd)     0.1           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-59858       High        0.1% (3rd)     0.1           
+python                   3.14.2                    3.13.14, *3.14.5rc1, 3.15.0b1                        binary     CVE-2026-6019        Medium      0.2% (13th)    0.1           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73076       High        0.1% (3rd)     0.1           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73076       High        0.1% (3rd)     0.1           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73076       High        0.1% (3rd)     0.1           
+python                   3.14.2                    3.13.13, *3.14.4, 3.15.0a8                           binary     CVE-2026-3446        Medium      0.2% (8th)     0.1           
+libgssapi-krb5-2         1.20.1-2+deb12u5                                                               deb        CVE-2018-5709        Negligible  2.1% (79th)    0.1           
+libk5crypto3             1.20.1-2+deb12u5                                                               deb        CVE-2018-5709        Negligible  2.1% (79th)    0.1           
+libkrb5-3                1.20.1-2+deb12u5                                                               deb        CVE-2018-5709        Negligible  2.1% (79th)    0.1           
+libkrb5support0          1.20.1-2+deb12u5                                                               deb        CVE-2018-5709        Negligible  2.1% (79th)    0.1           
+@sigstore/core           3.0.0                     3.2.1                                                npm        GHSA-jfc7-64v2-mr8c  Medium      0.2% (9th)     0.1           
+node                     24.12.0                   22.23.2, *24.18.1, 26.5.1                            binary     CVE-2026-58044       Low         0.3% (22nd)    0.1           
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2024-28757       Negligible  2.0% (79th)    0.1           
+showdown                 2.1.0                                                                          npm        GHSA-cr32-g25g-vxjj  Medium      0.2% (8th)     0.1           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73072       High        0.1% (2nd)     0.1           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73072       High        0.1% (2nd)     0.1           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73072       High        0.1% (2nd)     0.1           
+libglib2.0-0             2.74.6-2+deb12u9          (won't fix)                                          deb        CVE-2026-15588       Medium      0.2% (9th)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-72522       Medium      0.2% (7th)     < 0.1         
+libglib2.0-0             2.74.6-2+deb12u9          (won't fix)                                          deb        CVE-2026-16118       High        0.1% (3rd)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2008-4677        Negligible  2.0% (78th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2008-4677        Negligible  2.0% (78th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2008-4677        Negligible  2.0% (78th)    < 0.1         
+pip                      25.3                      26.0                                                 python     GHSA-6vgw-5pg2-w6jp  Low         0.4% (32nd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-55693       High        0.1% (2nd)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-55693       High        0.1% (2nd)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-55693       High        0.1% (2nd)     < 0.1         
+gpg                      2.2.40-1.1+deb12u2        (won't fix)                                          deb        CVE-2025-30258       Medium      0.2% (9th)     < 0.1         
+gpgconf                  2.2.40-1.1+deb12u2        (won't fix)                                          deb        CVE-2025-30258       Medium      0.2% (9th)     < 0.1         
+gpgv                     2.2.40-1.1+deb12u2        (won't fix)                                          deb        CVE-2025-30258       Medium      0.2% (9th)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-35177       High        0.1% (2nd)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-35177       High        0.1% (2nd)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-35177       High        0.1% (2nd)     < 0.1         
+libasound2               1.2.8-1+b1                (won't fix)                                          deb        CVE-2026-25068       Medium      0.2% (9th)     < 0.1         
+libasound2-data          1.2.8-1                   (won't fix)                                          deb        CVE-2026-25068       Medium      0.2% (9th)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-57455       High        0.1% (2nd)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-57455       High        0.1% (2nd)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-57455       High        0.1% (2nd)     < 0.1         
+libexpat1                2.5.0-1+deb12u2           (won't fix)                                          deb        CVE-2026-32778       Medium      0.2% (6th)     < 0.1         
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.15, *3.14.7, ...     binary     CVE-2026-6879        Low         0.4% (28th)    < 0.1         
+libgcrypt20              1.10.1-3+deb12u1                                                               deb        CVE-2018-6829        Negligible  1.8% (76th)    < 0.1         
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2023-31486       Negligible  1.7% (75th)    < 0.1         
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2023-31486       Negligible  1.7% (75th)    < 0.1         
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2023-31486       Negligible  1.7% (75th)    < 0.1         
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2023-31486       Negligible  1.7% (75th)    < 0.1         
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-15534       Medium      0.2% (5th)     < 0.1         
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-15534       Medium      0.2% (5th)     < 0.1         
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-15534       Medium      0.2% (5th)     < 0.1         
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-15534       Medium      0.2% (5th)     < 0.1         
+libexpat1                2.5.0-1+deb12u2           (won't fix)                                          deb        CVE-2026-32776       Medium      0.2% (6th)     < 0.1         
+curl                     7.88.1-10+deb12u15                                                             deb        CVE-2024-2379        Negligible  1.7% (75th)    < 0.1         
+libcurl3-gnutls          7.88.1-10+deb12u15                                                             deb        CVE-2024-2379        Negligible  1.7% (75th)    < 0.1         
+libcurl4                 7.88.1-10+deb12u15                                                             deb        CVE-2024-2379        Negligible  1.7% (75th)    < 0.1         
+libncurses6              6.4-4                     (won't fix)                                          deb        CVE-2025-6141        Medium      0.2% (6th)     < 0.1         
+libncursesw6             6.4-4                     (won't fix)                                          deb        CVE-2025-6141        Medium      0.2% (6th)     < 0.1         
+libtinfo6                6.4-4                     (won't fix)                                          deb        CVE-2025-6141        Medium      0.2% (6th)     < 0.1         
+ncurses-base             6.4-4                     (won't fix)                                          deb        CVE-2025-6141        Medium      0.2% (6th)     < 0.1         
+ncurses-bin              6.4-4                     (won't fix)                                          deb        CVE-2025-6141        Medium      0.2% (6th)     < 0.1         
+pillow                   12.2.0                    12.3.0                                               python     GHSA-4x4j-2g7c-83w6  Medium      0.2% (7th)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28420       Medium      0.2% (7th)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28420       Medium      0.2% (7th)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28420       Medium      0.2% (7th)     < 0.1         
+libp11-kit0              0.24.1-2                  (won't fix)                                          deb        CVE-2026-13757       Medium      0.1% (4th)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56410       Medium      0.1% (3rd)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56411       Medium      0.1% (3rd)     < 0.1         
+quill                    2.0.3                                                                          npm        GHSA-v3m3-f69x-jf25  Low         0.2% (14th)    < 0.1         
+stdlib                   go1.19.8                  *1.23.9, 1.24.3                                      go-module  GO-2026-4403         Low         0.2% (15th)    < 0.1         
+libsqlite3-0             3.40.1-2+deb12u2                                                               deb        CVE-2021-45346       Negligible  1.6% (74th)    < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56406       Medium      0.1% (3rd)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73074       High        0.1% (1st)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73074       High        0.1% (1st)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73074       High        0.1% (1st)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56409       Medium      0.1% (3rd)     < 0.1         
+python                   3.14.2                    3.11.16, 3.12.14, 3.13.15, *3.14.7, ...              binary     CVE-2026-12003       Medium      0.1% (4th)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56412       Medium      0.1% (3rd)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56403       Medium      0.1% (2nd)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56404       Medium      0.1% (2nd)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56405       Medium      0.1% (2nd)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56408       Medium      0.1% (2nd)     < 0.1         
+libattr1                 1:2.5.1-4                 (won't fix)                                          deb        CVE-2026-54371       Medium      0.1% (3rd)     < 0.1         
+libcairo2                1.16.0-7                                                                       deb        CVE-2018-18064       Negligible  1.5% (71st)    < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56407       Medium      0.1% (2nd)     < 0.1         
+sqlparse                 0.5.5                     0.6.0                                                python     GHSA-3496-9g83-7v6x  Medium      0.1% (2nd)     < 0.1         
+pip                      25.3                      26.1                                                 python     GHSA-jp4c-xjxw-mgf9  Medium      0.1% (3rd)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-47167       Medium      0.1% (3rd)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-47167       Medium      0.1% (3rd)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-47167       Medium      0.1% (3rd)     < 0.1         
+pip                      25.3                      26.1                                                 python     GHSA-58qw-9mgm-455v  Medium      0.1% (4th)     < 0.1         
+python                   3.14.2                    *3.14.5, 3.15.0b1                                    binary     CVE-2026-5713        Medium      0.1% (3rd)     < 0.1         
+libxpm4                  1:3.5.12-1.1+deb12u1      (won't fix)                                          deb        CVE-2026-4367        Medium      0.1% (2nd)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56131       Medium      0.1% (3rd)     < 0.1         
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2025-15649       Medium      0.1% (2nd)     < 0.1         
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2025-15649       Medium      0.1% (2nd)     < 0.1         
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2025-15649       Medium      0.1% (2nd)     < 0.1         
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2025-15649       Medium      0.1% (2nd)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73070       Medium      0.1% (1st)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73070       Medium      0.1% (1st)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-73070       Medium      0.1% (1st)     < 0.1         
+libacl1                  2.3.1-3                   (won't fix)                                          deb        CVE-2026-54370       High        < 0.1% (0th)   < 0.1         
+tar                      1.34+dfsg-1.2+deb12u1                                                          deb        CVE-2026-18508       Medium      0.1% (3rd)     < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2026-56132       Medium      0.1% (1st)     < 0.1         
+pypdf                    6.13.3                    6.15.0                                               python     GHSA-fp3f-mc75-235c  Medium      0.1% (2nd)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-55892       Medium      0.1% (2nd)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-55892       Medium      0.1% (2nd)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-55892       Medium      0.1% (2nd)     < 0.1         
+libcairo2                1.16.0-7                  (won't fix)                                          deb        CVE-2025-50422       Low         0.2% (11th)    < 0.1         
+libsystemd0              252.39-1~deb12u2                                                               deb        CVE-2026-15059       Medium      0.1% (2nd)     < 0.1         
+libudev1                 252.39-1~deb12u2                                                               deb        CVE-2026-15059       Medium      0.1% (2nd)     < 0.1         
+pypdf                    6.13.3                    6.15.0                                               python     GHSA-fwg2-594c-jp42  Medium      0.1% (2nd)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-57452       Medium      0.1% (1st)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-57452       Medium      0.1% (1st)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-57452       Medium      0.1% (1st)     < 0.1         
+curl                     7.88.1-10+deb12u15                                                             deb        CVE-2025-0725        Negligible  1.2% (66th)    < 0.1         
+libcurl3-gnutls          7.88.1-10+deb12u15                                                             deb        CVE-2025-0725        Negligible  1.2% (66th)    < 0.1         
+libcurl4                 7.88.1-10+deb12u15                                                             deb        CVE-2025-0725        Negligible  1.2% (66th)    < 0.1         
+libbz2-1.0               1.0.8-5+b1                (won't fix)                                          deb        CVE-2026-42250       Medium      0.1% (2nd)     < 0.1         
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.15, *3.14.7, ...     binary     CVE-2026-0864        Medium      0.1% (2nd)     < 0.1         
+libp11-kit0              0.24.1-2                                                                       deb        CVE-2026-18938       Medium      0.1% (1st)     < 0.1         
+apt                      2.6.1                                                                          deb        CVE-2011-3374        Negligible  1.2% (65th)    < 0.1         
+libapt-pkg6.0            2.6.1                                                                          deb        CVE-2011-3374        Negligible  1.2% (65th)    < 0.1         
+libsqlite3-0             3.40.1-2+deb12u2          (won't fix)                                          deb        CVE-2026-50812       Medium      0.1% (1st)     < 0.1         
+libsqlite3-0             3.40.1-2+deb12u2          (won't fix)                                          deb        CVE-2026-50813       Medium      0.1% (1st)     < 0.1         
+bsdutils                 1:2.38.1-5+deb12u3        (won't fix)                                          deb        CVE-2026-27456       Medium      0.1% (1st)     < 0.1         
+libblkid1                2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-27456       Medium      0.1% (1st)     < 0.1         
+libmount1                2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-27456       Medium      0.1% (1st)     < 0.1         
+libsmartcols1            2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-27456       Medium      0.1% (1st)     < 0.1         
+libuuid1                 2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-27456       Medium      0.1% (1st)     < 0.1         
+mount                    2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-27456       Medium      0.1% (1st)     < 0.1         
+util-linux               2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-27456       Medium      0.1% (1st)     < 0.1         
+util-linux-extra         2.38.1-5+deb12u3          (won't fix)                                          deb        CVE-2026-27456       Medium      0.1% (1st)     < 0.1         
+gzip                     1.12-1                    (won't fix)                                          deb        CVE-2026-41991       Medium      0.1% (1st)     < 0.1         
+bsdutils                 1:2.38.1-5+deb12u3                                                             deb        CVE-2026-13595       Medium      0.1% (1st)     < 0.1         
+libblkid1                2.38.1-5+deb12u3                                                               deb        CVE-2026-13595       Medium      0.1% (1st)     < 0.1         
+libmount1                2.38.1-5+deb12u3                                                               deb        CVE-2026-13595       Medium      0.1% (1st)     < 0.1         
+libsmartcols1            2.38.1-5+deb12u3                                                               deb        CVE-2026-13595       Medium      0.1% (1st)     < 0.1         
+libuuid1                 2.38.1-5+deb12u3                                                               deb        CVE-2026-13595       Medium      0.1% (1st)     < 0.1         
+mount                    2.38.1-5+deb12u3                                                               deb        CVE-2026-13595       Medium      0.1% (1st)     < 0.1         
+util-linux               2.38.1-5+deb12u3                                                               deb        CVE-2026-13595       Medium      0.1% (1st)     < 0.1         
+util-linux-extra         2.38.1-5+deb12u3                                                               deb        CVE-2026-13595       Medium      0.1% (1st)     < 0.1         
+libgssapi-krb5-2         1.20.1-2+deb12u5                                                               deb        CVE-2024-26461       Negligible  1.1% (63rd)    < 0.1         
+libk5crypto3             1.20.1-2+deb12u5                                                               deb        CVE-2024-26461       Negligible  1.1% (63rd)    < 0.1         
+libkrb5-3                1.20.1-2+deb12u5                                                               deb        CVE-2024-26461       Negligible  1.1% (63rd)    < 0.1         
+libkrb5support0          1.20.1-2+deb12u5                                                               deb        CVE-2024-26461       Negligible  1.1% (63rd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-59857       Medium      0.1% (1st)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-59857       Medium      0.1% (1st)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-59857       Medium      0.1% (1st)     < 0.1         
+libgcrypt20              1.10.1-3+deb12u1                                                               deb        CVE-2024-2236        Negligible  1.1% (63rd)    < 0.1         
+stdlib                   go1.19.8                  *1.25.8, 1.26.1                                      go-module  GO-2026-4602         Low         0.2% (10th)    < 0.1         
+node                     24.12.0                   22.23.2, *24.18.1, 26.5.1                            binary     CVE-2026-58039       Low         0.2% (7th)     < 0.1         
+libsystemd0              252.39-1~deb12u2          (won't fix)                                          deb        CVE-2026-40228       Low         0.2% (7th)     < 0.1         
+libudev1                 252.39-1~deb12u2          (won't fix)                                          deb        CVE-2026-40228       Low         0.2% (7th)     < 0.1         
+git                      1:2.39.5-0+deb12u3                                                             deb        CVE-2018-1000021     Negligible  1.1% (62nd)    < 0.1         
+git-man                  1:2.39.5-0+deb12u3                                                             deb        CVE-2018-1000021     Negligible  1.1% (62nd)    < 0.1         
+libpulse0                16.1+dfsg1-2+b1           (won't fix)                                          deb        CVE-2026-14330       Medium      0.1% (0th)     < 0.1         
+gpg                      2.2.40-1.1+deb12u2        (won't fix)                                          deb        CVE-2025-68972       Medium      0.1% (1st)     < 0.1         
+gpgconf                  2.2.40-1.1+deb12u2        (won't fix)                                          deb        CVE-2025-68972       Medium      0.1% (1st)     < 0.1         
+gpgv                     2.2.40-1.1+deb12u2        (won't fix)                                          deb        CVE-2025-68972       Medium      0.1% (1st)     < 0.1         
+libgbm1                  22.3.6-1+deb12u2                                                               deb        CVE-2023-45931       Negligible  1.0% (61st)    < 0.1         
+libgl1-mesa-dri          22.3.6-1+deb12u2                                                               deb        CVE-2023-45931       Negligible  1.0% (61st)    < 0.1         
+libglapi-mesa            22.3.6-1+deb12u2                                                               deb        CVE-2023-45931       Negligible  1.0% (61st)    < 0.1         
+libglx-mesa0             22.3.6-1+deb12u2                                                               deb        CVE-2023-45931       Negligible  1.0% (61st)    < 0.1         
+node                     24.12.0                   20.20.2, 22.22.2, *24.14.1, 25.8.2                   binary     CVE-2026-21716       Low         0.2% (5th)     < 0.1         
+node                     24.12.0                   22.23.2, *24.18.1, 26.5.1                            binary     CVE-2026-56847       Low         0.2% (5th)     < 0.1         
+node                     24.12.0                   20.20.2, 22.22.2, *24.14.1, 25.8.2                   binary     CVE-2026-21715       Low         0.2% (5th)     < 0.1         
+libllvm15                1:15.0.6-4+b1                                                                  deb        CVE-2024-31852       Negligible  1.0% (59th)    < 0.1         
+tar                      1.34+dfsg-1.2+deb12u1                                                          deb        CVE-2026-18477       Medium      0.1% (1st)     < 0.1         
+login                    1:4.13+dfsg1-1+deb12u2                                                         deb        CVE-2007-5686        Negligible  0.9% (58th)    < 0.1         
+passwd                   1:4.13+dfsg1-1+deb12u2                                                         deb        CVE-2007-5686        Negligible  0.9% (58th)    < 0.1         
+libexpat1                2.5.0-1+deb12u2           (won't fix)                                          deb        CVE-2026-24515       Low         0.2% (6th)     < 0.1         
+python                   3.14.2                    3.13.13, *3.14.4, 3.15.0a8                           binary     CVE-2025-13462       Low         0.2% (6th)     < 0.1         
+libgl1                   1.6.0-1                                                                        deb        CVE-2023-45924       Negligible  0.9% (57th)    < 0.1         
+libglvnd0                1.6.0-1                                                                        deb        CVE-2023-45924       Negligible  0.9% (57th)    < 0.1         
+libglx0                  1.6.0-1                                                                        deb        CVE-2023-45924       Negligible  0.9% (57th)    < 0.1         
+gcc-12-base              12.2.0-14+deb12u1                                                              deb        CVE-2022-27943       Negligible  0.9% (57th)    < 0.1         
+libgcc-s1                12.2.0-14+deb12u1                                                              deb        CVE-2022-27943       Negligible  0.9% (57th)    < 0.1         
+libstdc++6               12.2.0-14+deb12u1                                                              deb        CVE-2022-27943       Negligible  0.9% (57th)    < 0.1         
+gpg                      2.2.40-1.1+deb12u2        (won't fix)                                          deb        CVE-2026-57062       Low         0.1% (4th)     < 0.1         
+gpgconf                  2.2.40-1.1+deb12u2        (won't fix)                                          deb        CVE-2026-57062       Low         0.1% (4th)     < 0.1         
+gpgv                     2.2.40-1.1+deb12u2        (won't fix)                                          deb        CVE-2026-57062       Low         0.1% (4th)     < 0.1         
+libgssapi-krb5-2         1.20.1-2+deb12u5                                                               deb        CVE-2024-26458       Negligible  0.8% (54th)    < 0.1         
+libk5crypto3             1.20.1-2+deb12u5                                                               deb        CVE-2024-26458       Negligible  0.8% (54th)    < 0.1         
+libkrb5-3                1.20.1-2+deb12u5                                                               deb        CVE-2024-26458       Negligible  0.8% (54th)    < 0.1         
+libkrb5support0          1.20.1-2+deb12u5                                                               deb        CVE-2024-26458       Negligible  0.8% (54th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48233       Negligible  0.8% (52nd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48234       Negligible  0.8% (52nd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48235       Negligible  0.8% (52nd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48237       Negligible  0.8% (52nd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48233       Negligible  0.8% (52nd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48234       Negligible  0.8% (52nd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48235       Negligible  0.8% (52nd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48237       Negligible  0.8% (52nd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48233       Negligible  0.8% (52nd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48234       Negligible  0.8% (52nd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48235       Negligible  0.8% (52nd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48237       Negligible  0.8% (52nd)    < 0.1         
+node                     24.12.0                   22.23.2, *24.18.1, 26.5.1                            binary     CVE-2026-56850       Medium      < 0.1% (0th)   < 0.1         
+libnss3                  2:3.87.1-1+deb12u4                                                             deb        CVE-2017-11695       Negligible  0.7% (51st)    < 0.1         
+libnss3                  2:3.87.1-1+deb12u4                                                             deb        CVE-2017-11696       Negligible  0.7% (51st)    < 0.1         
+libnss3                  2:3.87.1-1+deb12u4                                                             deb        CVE-2017-11698       Negligible  0.7% (51st)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48236       Negligible  0.7% (50th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48236       Negligible  0.7% (50th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48236       Negligible  0.7% (50th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48232       Negligible  0.7% (49th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48232       Negligible  0.7% (49th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48232       Negligible  0.7% (49th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48231       Negligible  0.7% (49th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48231       Negligible  0.7% (49th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48231       Negligible  0.7% (49th)    < 0.1         
+libsystemd0              252.39-1~deb12u2                                                               deb        CVE-2026-16742       Medium      < 0.1% (0th)   < 0.1         
+libudev1                 252.39-1~deb12u2                                                               deb        CVE-2026-16742       Medium      < 0.1% (0th)   < 0.1         
+libelf1                  0.188-2.1                                                                      deb        CVE-2025-1352        Negligible  0.7% (48th)    < 0.1         
+python                   3.14.2                    3.10.21, 3.11.16, 3.12.14, 3.13.15, *3.14.7, ...     binary     CVE-2026-18503       Low         0.1% (2nd)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4735        Negligible  0.6% (46th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4735        Negligible  0.6% (46th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4735        Negligible  0.6% (46th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4751        Negligible  0.6% (46th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4751        Negligible  0.6% (46th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4751        Negligible  0.6% (46th)    < 0.1         
+libpixman-1-0            0.42.2-1                                                                       deb        CVE-2023-37769       Negligible  0.6% (45th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4734        Negligible  0.6% (45th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4734        Negligible  0.6% (45th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4734        Negligible  0.6% (45th)    < 0.1         
+libc-bin                 2.36-9+deb12u14                                                                deb        CVE-2026-6368        Low         0.1% (1st)     < 0.1         
+libc6                    2.36-9+deb12u14                                                                deb        CVE-2026-6368        Low         0.1% (1st)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4733        Negligible  0.5% (43rd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4733        Negligible  0.5% (43rd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4733        Negligible  0.5% (43rd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-5535        Negligible  0.5% (43rd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-5535        Negligible  0.5% (43rd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-5535        Negligible  0.5% (43rd)    < 0.1         
+libgbm1                  22.3.6-1+deb12u2                                                               deb        CVE-2023-45922       Negligible  0.5% (42nd)    < 0.1         
+libgl1-mesa-dri          22.3.6-1+deb12u2                                                               deb        CVE-2023-45922       Negligible  0.5% (42nd)    < 0.1         
+libglapi-mesa            22.3.6-1+deb12u2                                                               deb        CVE-2023-45922       Negligible  0.5% (42nd)    < 0.1         
+libglx-mesa0             22.3.6-1+deb12u2                                                               deb        CVE-2023-45922       Negligible  0.5% (42nd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4750        Negligible  0.5% (42nd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4750        Negligible  0.5% (42nd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-4750        Negligible  0.5% (42nd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-1215        Negligible  0.5% (42nd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-1215        Negligible  0.5% (42nd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-1215        Negligible  0.5% (42nd)    < 0.1         
+libnss3                  2:3.87.1-1+deb12u4                                                             deb        CVE-2017-11697       Negligible  0.5% (42nd)    < 0.1         
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2011-4116        Negligible  0.5% (42nd)    < 0.1         
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2011-4116        Negligible  0.5% (42nd)    < 0.1         
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2011-4116        Negligible  0.5% (42nd)    < 0.1         
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2011-4116        Negligible  0.5% (42nd)    < 0.1         
+git                      1:2.39.5-0+deb12u3                                                             deb        CVE-2024-52005       Negligible  0.5% (41st)    < 0.1         
+git-man                  1:2.39.5-0+deb12u3                                                             deb        CVE-2024-52005       Negligible  0.5% (41st)    < 0.1         
+libpng16-16              1.6.39-2+deb12u5                                                               deb        CVE-2021-4214        Negligible  0.5% (41st)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-2609        Negligible  0.5% (38th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-2609        Negligible  0.5% (38th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-2609        Negligible  0.5% (38th)    < 0.1         
+libsystemd0              252.39-1~deb12u2                                                               deb        CVE-2013-4392        Negligible  0.5% (38th)    < 0.1         
+libudev1                 252.39-1~deb12u2                                                               deb        CVE-2013-4392        Negligible  0.5% (38th)    < 0.1         
+curl                     7.88.1-10+deb12u15                                                             deb        CVE-2025-15079       Negligible  0.5% (38th)    < 0.1         
+libcurl3-gnutls          7.88.1-10+deb12u15                                                             deb        CVE-2025-15079       Negligible  0.5% (38th)    < 0.1         
+libcurl4                 7.88.1-10+deb12u15                                                             deb        CVE-2025-15079       Negligible  0.5% (38th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-1355        Negligible  0.5% (37th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-1355        Negligible  0.5% (37th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-1355        Negligible  0.5% (37th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48706       Negligible  0.4% (37th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48706       Negligible  0.4% (37th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-48706       Negligible  0.4% (37th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-5441        Negligible  0.4% (36th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-5441        Negligible  0.4% (36th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-5441        Negligible  0.4% (36th)    < 0.1         
+bsdutils                 1:2.38.1-5+deb12u3                                                             deb        CVE-2022-0563        Negligible  0.4% (35th)    < 0.1         
+libblkid1                2.38.1-5+deb12u3                                                               deb        CVE-2022-0563        Negligible  0.4% (35th)    < 0.1         
+libmount1                2.38.1-5+deb12u3                                                               deb        CVE-2022-0563        Negligible  0.4% (35th)    < 0.1         
+libsmartcols1            2.38.1-5+deb12u3                                                               deb        CVE-2022-0563        Negligible  0.4% (35th)    < 0.1         
+libuuid1                 2.38.1-5+deb12u3                                                               deb        CVE-2022-0563        Negligible  0.4% (35th)    < 0.1         
+mount                    2.38.1-5+deb12u3                                                               deb        CVE-2022-0563        Negligible  0.4% (35th)    < 0.1         
+util-linux               2.38.1-5+deb12u3                                                               deb        CVE-2022-0563        Negligible  0.4% (35th)    < 0.1         
+util-linux-extra         2.38.1-5+deb12u3                                                               deb        CVE-2022-0563        Negligible  0.4% (35th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-1264        Negligible  0.4% (35th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-1264        Negligible  0.4% (35th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-1264        Negligible  0.4% (35th)    < 0.1         
+curl                     7.88.1-10+deb12u15                                                             deb        CVE-2025-15224       Negligible  0.4% (35th)    < 0.1         
+libcurl3-gnutls          7.88.1-10+deb12u15                                                             deb        CVE-2025-15224       Negligible  0.4% (35th)    < 0.1         
+libcurl4                 7.88.1-10+deb12u15                                                             deb        CVE-2025-15224       Negligible  0.4% (35th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-3896        Negligible  0.4% (34th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-3896        Negligible  0.4% (34th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-3896        Negligible  0.4% (34th)    < 0.1         
+jq                       1.6-2.1+deb12u2                                                                deb        CVE-2024-23337       Negligible  0.4% (34th)    < 0.1         
+libjq1                   1.6-2.1+deb12u2                                                                deb        CVE-2024-23337       Negligible  0.4% (34th)    < 0.1         
+curl                     7.88.1-10+deb12u15                                                             deb        CVE-2025-10966       Negligible  0.4% (33rd)    < 0.1         
+libcurl3-gnutls          7.88.1-10+deb12u15                                                             deb        CVE-2025-10966       Negligible  0.4% (33rd)    < 0.1         
+libcurl4                 7.88.1-10+deb12u15                                                             deb        CVE-2025-10966       Negligible  0.4% (33rd)    < 0.1         
+libgbm1                  22.3.6-1+deb12u2                                                               deb        CVE-2023-45919       Negligible  0.4% (32nd)    < 0.1         
+libgl1-mesa-dri          22.3.6-1+deb12u2                                                               deb        CVE-2023-45919       Negligible  0.4% (32nd)    < 0.1         
+libglapi-mesa            22.3.6-1+deb12u2                                                               deb        CVE-2023-45919       Negligible  0.4% (32nd)    < 0.1         
+libglx-mesa0             22.3.6-1+deb12u2                                                               deb        CVE-2023-45919       Negligible  0.4% (32nd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2017-1000382     Negligible  0.4% (31st)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2017-1000382     Negligible  0.4% (31st)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2017-1000382     Negligible  0.4% (31st)    < 0.1         
+libssl-dev               3.0.20-1~deb12u2                                                               deb        CVE-2025-27587       Negligible  0.4% (31st)    < 0.1         
+libssl3                  3.0.20-1~deb12u2                                                               deb        CVE-2025-27587       Negligible  0.4% (31st)    < 0.1         
+openssl                  3.0.20-1~deb12u2                                                               deb        CVE-2025-27587       Negligible  0.4% (31st)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-22134       Negligible  0.4% (30th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-22134       Negligible  0.4% (30th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-22134       Negligible  0.4% (30th)    < 0.1         
+libexpat1                2.5.0-1+deb12u2                                                                deb        CVE-2023-52426       Negligible  0.4% (30th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-46246       Negligible  0.4% (29th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-46246       Negligible  0.4% (29th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2023-46246       Negligible  0.4% (29th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-41957       Negligible  0.4% (29th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-41957       Negligible  0.4% (29th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-41957       Negligible  0.4% (29th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-43374       Negligible  0.4% (28th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-43374       Negligible  0.4% (28th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-43374       Negligible  0.4% (28th)    < 0.1         
+libldap-2.5-0            2.5.13+dfsg-5                                                                  deb        CVE-2017-14159       Negligible  0.3% (28th)    < 0.1         
+libsystemd0              252.39-1~deb12u2                                                               deb        CVE-2023-31439       Negligible  0.3% (28th)    < 0.1         
+libudev1                 252.39-1~deb12u2                                                               deb        CVE-2023-31439       Negligible  0.3% (28th)    < 0.1         
+coreutils                9.1-1                                                                          deb        CVE-2017-18018       Negligible  0.3% (28th)    < 0.1         
+libsystemd0              252.39-1~deb12u2                                                               deb        CVE-2023-31437       Negligible  0.3% (27th)    < 0.1         
+libudev1                 252.39-1~deb12u2                                                               deb        CVE-2023-31437       Negligible  0.3% (27th)    < 0.1         
+libelf1                  0.188-2.1                                                                      deb        CVE-2025-1372        Negligible  0.3% (27th)    < 0.1         
+libelf1                  0.188-2.1                                                                      deb        CVE-2025-1365        Negligible  0.3% (26th)    < 0.1         
+libllvm15                1:15.0.6-4+b1                                                                  deb        CVE-2023-26924       Negligible  0.3% (25th)    < 0.1         
+libsystemd0              252.39-1~deb12u2                                                               deb        CVE-2023-31438       Negligible  0.3% (25th)    < 0.1         
+libudev1                 252.39-1~deb12u2                                                               deb        CVE-2023-31438       Negligible  0.3% (25th)    < 0.1         
+curl                     7.88.1-10+deb12u15                                                             deb        CVE-2026-9547        Negligible  0.3% (25th)    < 0.1         
+libcurl3-gnutls          7.88.1-10+deb12u15                                                             deb        CVE-2026-9547        Negligible  0.3% (25th)    < 0.1         
+libcurl4                 7.88.1-10+deb12u15                                                             deb        CVE-2026-9547        Negligible  0.3% (25th)    < 0.1         
+libelf1                  0.188-2.1                                                                      deb        CVE-2025-1377        Negligible  0.3% (24th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-41965       Negligible  0.3% (23rd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-41965       Negligible  0.3% (23rd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-41965       Negligible  0.3% (23rd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-43790       Negligible  0.3% (23rd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-43790       Negligible  0.3% (23rd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2024-43790       Negligible  0.3% (23rd)    < 0.1         
+libelf1                  0.188-2.1                                                                      deb        CVE-2024-25260       Negligible  0.3% (23rd)    < 0.1         
+libelf1                  0.188-2.1                                                                      deb        CVE-2025-1376        Negligible  0.3% (22nd)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-52859       Negligible  0.3% (22nd)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-52859       Negligible  0.3% (22nd)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-52859       Negligible  0.3% (22nd)    < 0.1         
+libsqlite3-0             3.40.1-2+deb12u2                                                               deb        CVE-2025-70873       Negligible  0.3% (22nd)    < 0.1         
+gpg                      2.2.40-1.1+deb12u2                                                             deb        CVE-2022-3219        Negligible  0.3% (21st)    < 0.1         
+gpgconf                  2.2.40-1.1+deb12u2                                                             deb        CVE-2022-3219        Negligible  0.3% (21st)    < 0.1         
+gpgv                     2.2.40-1.1+deb12u2                                                             deb        CVE-2022-3219        Negligible  0.3% (21st)    < 0.1         
+libgbm1                  22.3.6-1+deb12u2                                                               deb        CVE-2023-45913       Negligible  0.3% (20th)    < 0.1         
+libgl1-mesa-dri          22.3.6-1+deb12u2                                                               deb        CVE-2023-45913       Negligible  0.3% (20th)    < 0.1         
+libglapi-mesa            22.3.6-1+deb12u2                                                               deb        CVE-2023-45913       Negligible  0.3% (20th)    < 0.1         
+libglx-mesa0             22.3.6-1+deb12u2                                                               deb        CVE-2023-45913       Negligible  0.3% (20th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-24014       Negligible  0.3% (20th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-24014       Negligible  0.3% (20th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-24014       Negligible  0.3% (20th)    < 0.1         
+libperl5.36              5.36.0-7+deb12u3                                                               deb        CVE-2026-48961       Negligible  0.3% (18th)    < 0.1         
+perl                     5.36.0-7+deb12u3                                                               deb        CVE-2026-48961       Negligible  0.3% (18th)    < 0.1         
+perl-base                5.36.0-7+deb12u3                                                               deb        CVE-2026-48961       Negligible  0.3% (18th)    < 0.1         
+perl-modules-5.36        5.36.0-7+deb12u3                                                               deb        CVE-2026-48961       Negligible  0.3% (18th)    < 0.1         
+libgssapi-krb5-2         1.20.1-2+deb12u5                                                               deb        CVE-2026-11850       Negligible  0.3% (18th)    < 0.1         
+libk5crypto3             1.20.1-2+deb12u5                                                               deb        CVE-2026-11850       Negligible  0.3% (18th)    < 0.1         
+libkrb5-3                1.20.1-2+deb12u5                                                               deb        CVE-2026-11850       Negligible  0.3% (18th)    < 0.1         
+libkrb5support0          1.20.1-2+deb12u5                                                               deb        CVE-2026-11850       Negligible  0.3% (18th)    < 0.1         
+diffutils                1:3.8-4                                                                        deb        CVE-2026-53910       Negligible  0.3% (16th)    < 0.1         
+coreutils                9.1-1                                                                          deb        CVE-2025-5278        Negligible  0.2% (16th)    < 0.1         
+python                   3.14.2                    3.13.13, *3.14.4, 3.15.0a8                           binary     CVE-2026-3479        Negligible  0.2% (15th)    < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-26603       Negligible  0.2% (14th)    < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-26603       Negligible  0.2% (14th)    < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2025-26603       Negligible  0.2% (14th)    < 0.1         
+libbpf1                  1:1.1.2-0+deb12u1                                                              deb        CVE-2025-29481       Negligible  0.2% (14th)    < 0.1         
+libelf1                  0.188-2.1                                                                      deb        CVE-2025-1371        Negligible  0.2% (13th)    < 0.1         
+libllvm15                1:15.0.6-4+b1                                                                  deb        CVE-2023-29934       Negligible  0.2% (12th)    < 0.1         
+libllvm15                1:15.0.6-4+b1                                                                  deb        CVE-2023-29942       Negligible  0.2% (12th)    < 0.1         
+libllvm15                1:15.0.6-4+b1                                                                  deb        CVE-2023-29932       Negligible  0.2% (12th)    < 0.1         
+libllvm15                1:15.0.6-4+b1                                                                  deb        CVE-2023-29933       Negligible  0.2% (12th)    < 0.1         
+libllvm15                1:15.0.6-4+b1                                                                  deb        CVE-2023-29935       Negligible  0.2% (12th)    < 0.1         
+libllvm15                1:15.0.6-4+b1                                                                  deb        CVE-2023-29939       Negligible  0.2% (12th)    < 0.1         
+libllvm15                1:15.0.6-4+b1                                                                  deb        CVE-2023-29941       Negligible  0.2% (12th)    < 0.1         
+jq                       1.6-2.1+deb12u2                                                                deb        CVE-2025-9403        Negligible  0.2% (11th)    < 0.1         
+libjq1                   1.6-2.1+deb12u2                                                                deb        CVE-2025-9403        Negligible  0.2% (11th)    < 0.1         
+libsqlite3-0             3.40.1-2+deb12u2                                                               deb        CVE-2025-29088       Negligible  0.2% (9th)     < 0.1         
+bsdutils                 1:2.38.1-5+deb12u3                                                             deb        CVE-2025-14104       Negligible  0.2% (9th)     < 0.1         
+libblkid1                2.38.1-5+deb12u3                                                               deb        CVE-2025-14104       Negligible  0.2% (9th)     < 0.1         
+libmount1                2.38.1-5+deb12u3                                                               deb        CVE-2025-14104       Negligible  0.2% (9th)     < 0.1         
+libsmartcols1            2.38.1-5+deb12u3                                                               deb        CVE-2025-14104       Negligible  0.2% (9th)     < 0.1         
+libuuid1                 2.38.1-5+deb12u3                                                               deb        CVE-2025-14104       Negligible  0.2% (9th)     < 0.1         
+mount                    2.38.1-5+deb12u3                                                               deb        CVE-2025-14104       Negligible  0.2% (9th)     < 0.1         
+util-linux               2.38.1-5+deb12u3                                                               deb        CVE-2025-14104       Negligible  0.2% (9th)     < 0.1         
+util-linux-extra         2.38.1-5+deb12u3                                                               deb        CVE-2025-14104       Negligible  0.2% (9th)     < 0.1         
+xdg-utils                1.1.3-4.1                                                                      deb        CVE-2025-52968       Negligible  0.2% (8th)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28419       Negligible  0.2% (6th)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28419       Negligible  0.2% (6th)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28419       Negligible  0.2% (6th)     < 0.1         
+jq                       1.6-2.1+deb12u2                                                                deb        CVE-2026-40612       Negligible  0.2% (5th)     < 0.1         
+libjq1                   1.6-2.1+deb12u2                                                                deb        CVE-2026-40612       Negligible  0.2% (5th)     < 0.1         
+coreutils                9.1-1                                                                          deb        CVE-2026-56392       Negligible  0.1% (4th)     < 0.1         
+libxml2                  2.9.14+dfsg-1.3~deb12u6                                                        deb        CVE-2026-11979       Negligible  0.1% (4th)     < 0.1         
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28422       Negligible  0.1% (4th)     < 0.1         
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28422       Negligible  0.1% (4th)     < 0.1         
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-28422       Negligible  0.1% (4th)     < 0.1         
+libpng16-16              1.6.39-2+deb12u5          (won't fix)                                          deb        CVE-2025-28162       Negligible  0.1% (3rd)     < 0.1         
+libpng16-16              1.6.39-2+deb12u5                                                               deb        CVE-2025-28164       Negligible  0.1% (3rd)     < 0.1         
+libasound2               1.2.8-1+b1                                                                     deb        CVE-2026-56109       Negligible  0.1% (3rd)     < 0.1         
+libasound2-data          1.2.8-1                                                                        deb        CVE-2026-56109       Negligible  0.1% (3rd)     < 0.1         
+coreutils                9.1-1                                                                          deb        CVE-2026-56391       Negligible  0.1% (3rd)     < 0.1         
+libldap-2.5-0            2.5.13+dfsg-5                                                                  deb        CVE-2026-22185       Negligible  0.1% (3rd)     < 0.1         
+libpng16-16              1.6.39-2+deb12u5                                                               deb        CVE-2026-3713        Negligible  0.1% (2nd)     < 0.1         
+curl                     7.88.1-10+deb12u15                                                             deb        CVE-2025-14017       Negligible  0.1% (1st)     < 0.1         
+libcurl3-gnutls          7.88.1-10+deb12u15                                                             deb        CVE-2025-14017       Negligible  0.1% (1st)     < 0.1         
+libcurl4                 7.88.1-10+deb12u15                                                             deb        CVE-2025-14017       Negligible  0.1% (1st)     < 0.1         
+cryptography             46.0.7                    48.0.1                                               python     GHSA-537c-gmf6-5ccf  High        N/A            N/A           
+gitpython                3.1.51                    3.1.57                                               python     GHSA-3f7w-8rr8-f37f  High        N/A            N/A           
+gitpython                3.1.51                    3.1.53                                               python     GHSA-3rp5-jjmw-4wv2  High        N/A            N/A           
+gitpython                3.1.51                    3.1.58                                               python     GHSA-4gmw-gg2m-w46p  High        N/A            N/A           
+gitpython                3.1.51                    3.1.54                                               python     GHSA-6p8h-3wgx-97gf  High        N/A            N/A           
+gitpython                3.1.51                    3.1.55                                               python     GHSA-94p4-4cq8-9g67  High        N/A            N/A           
+gitpython                3.1.51                    3.1.58                                               python     GHSA-9rj7-rf2p-w77r  High        N/A            N/A           
+gitpython                3.1.51                    3.1.54                                               python     GHSA-fjr4-x663-mwxc  High        N/A            N/A           
+gitpython                3.1.51                    3.1.58                                               python     GHSA-hmq2-w58f-27jc  High        N/A            N/A           
+gitpython                3.1.51                    3.1.58                                               python     GHSA-jm78-9fvv-mhgr  High        N/A            N/A           
+gitpython                3.1.51                    3.1.54                                               python     GHSA-r9mr-m37c-5fr3  High        N/A            N/A           
+gitpython                3.1.51                    3.1.52                                               python     GHSA-rwj8-pgh3-r573  High        N/A            N/A           
+gitpython                3.1.51                    3.1.58                                               python     GHSA-wvpp-8hx9-p66j  High        N/A            N/A           
+js-yaml                  4.3.0                     4.3.1                                                npm        GHSA-5p4m-2wfm-xmqj  High        N/A            N/A           
+react-router             8.1.0                     8.3.0                                                npm        GHSA-qwww-vcr4-c8h2  High        N/A            N/A           
+vim                      2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-43961       High        N/A            N/A           
+vim-common               2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-43961       High        N/A            N/A           
+vim-runtime              2:9.0.1378-2+deb12u2                                                           deb        CVE-2026-43961       High        N/A            N/A           
+bleach                   6.3.0                                                                          python     GHSA-g75f-g53v-794x  Medium      N/A            N/A           
+bleach                   6.3.0                     6.4.0                                                python     GHSA-gj48-438w-jh9v  Medium      N/A            N/A           
+gitpython                3.1.51                    3.1.57                                               python     GHSA-539m-9xh6-q6rr  Medium      N/A            N/A           
+gitpython                3.1.51                    3.1.58                                               python     GHSA-hh9p-6wh2-4mfc  Medium      N/A            N/A           
+gitpython                3.1.51                    3.1.56                                               python     GHSA-p538-c434-8v24  Medium      N/A            N/A           
+bleach                   6.3.0                     6.4.0                                                python     GHSA-8rfp-98v4-mmr6  Low         N/A            N/A           
+bsdutils                 1:2.38.1-5+deb12u3                                                             deb        CVE-2026-53613       Unknown     N/A            N/A           
+bsdutils                 1:2.38.1-5+deb12u3                                                             deb        CVE-2026-53615       Unknown     N/A            N/A           
+libblkid1                2.38.1-5+deb12u3                                                               deb        CVE-2026-53613       Unknown     N/A            N/A           
+libblkid1                2.38.1-5+deb12u3                                                               deb        CVE-2026-53615       Unknown     N/A            N/A           
+libmount1                2.38.1-5+deb12u3                                                               deb        CVE-2026-53613       Unknown     N/A            N/A           
+libmount1                2.38.1-5+deb12u3                                                               deb        CVE-2026-53615       Unknown     N/A            N/A           
+libsmartcols1            2.38.1-5+deb12u3                                                               deb        CVE-2026-53613       Unknown     N/A            N/A           
+libsmartcols1            2.38.1-5+deb12u3                                                               deb        CVE-2026-53615       Unknown     N/A            N/A           
+libuuid1                 2.38.1-5+deb12u3                                                               deb        CVE-2026-53613       Unknown     N/A            N/A           
+libuuid1                 2.38.1-5+deb12u3                                                               deb        CVE-2026-53615       Unknown     N/A            N/A           
+mount                    2.38.1-5+deb12u3                                                               deb        CVE-2026-53613       Unknown     N/A            N/A           
+mount                    2.38.1-5+deb12u3                                                               deb        CVE-2026-53615       Unknown     N/A            N/A           
+util-linux               2.38.1-5+deb12u3                                                               deb        CVE-2026-53613       Unknown     N/A            N/A           
+util-linux               2.38.1-5+deb12u3                                                               deb        CVE-2026-53615       Unknown     N/A            N/A           
+util-linux-extra         2.38.1-5+deb12u3                                                               deb        CVE-2026-53613       Unknown     N/A            N/A           
+util-linux-extra         2.38.1-5+deb12u3                                                               deb        CVE-2026-53615       Unknown     N/A            N/A

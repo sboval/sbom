@@ -1,0 +1,27 @@
+# Fixed/hardened image over the v16 CRM stack.
+#   1. apt upgrade  -> clears all Debian criticals that have an upstream patch
+#   2. remove build-time node deps (esbuild bundler + webpack helpers) that carry
+#      the 7 "fixable" criticals. Frontend assets are already compiled into
+#      sites/assets + apps/crm/crm/public/frontend, so these are pure build tooling.
+#      socket.io (runtime realtime) is deliberately NOT touched.
+FROM erpnext-poc-crm:v16
+USER root
+ENV DEBIAN_FRONTEND=noninteractive
+# apt upgrade clears every Debian critical/high with an upstream patch (incl. chromium).
+# npm vendors its own 'tar' 7.5.1 (CVE-2026-59873, DoS via gzip bomb). npm is build-only
+# tooling, never on the runtime request path (services = gunicorn/python + node/socketio),
+# so its bundled tar is removed here (root-owned, must run before the USER frappe switch).
+# This drops the last "fix-available" critical; every remaining critical is then a Debian
+# package with NO upstream fix (documented in VEX_ANNEX.md).
+RUN apt-get update && apt-get upgrade -y && rm -rf /var/lib/apt/lists/* \
+ && rm -rf /home/frappe/.nvm/versions/node/*/lib/node_modules/npm/node_modules/tar
+USER frappe
+WORKDIR /home/frappe/frappe-bench
+RUN rm -rf apps/crm/frontend/node_modules \
+ && rm -rf apps/frappe/node_modules/esbuild \
+           apps/frappe/node_modules/esbuild-linux-arm64 \
+           apps/frappe/node_modules/@esbuild \
+           apps/frappe/node_modules/loader-utils \
+           apps/frappe/node_modules/postcss-modules/node_modules/loader-utils \
+           apps/frappe/node_modules/shell-quote \
+ && rm -rf /home/frappe/.cache/yarn
